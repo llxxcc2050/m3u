@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.tv.darwinchow.com/epg.xml.gz" catchup="append" catchup-source="&playback=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视4K
 http://192.168.100.100:9898/zgst.php?id=btv4k
 #EXTINF:-1,tvg-id="上海卫视4K" tvg-name="上海卫视4K" tvg-logo="https://epg.112114.xyz/logo/上海卫视4K.png" group-title="卫视",上海卫视4K

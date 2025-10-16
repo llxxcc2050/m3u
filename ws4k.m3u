@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.tv.darwinchow.com/epg.xml.gz" catchup="append" catchup-source="&playback=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视4K
 http://192.168.100.100:9898/zgst.php?id=btv4k
-#EXTINF:-1,tvg-id="上海卫视4K" tvg-name="上海卫视4K" tvg-logo="https://epg.112114.xyz/logo/上海卫视4K.png" group-title="卫视",上海卫视4K
+#EXTINF:-1,tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://epg.112114.xyz/logo/东方卫视4K.png" group-title="卫视",东方卫视4K
 http://192.168.100.100:9898/zgst.php?id=sh4k
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视4K
 http://192.168.100.100:9898/zgst.php?id=js4k
@@ -20,7 +20,7 @@ http://192.168.100.100:9898/zgst.php?id=sz4k
 
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视oc",北京卫视4K
 http://140.245.35.214:50800/zgst.php?id=btv4k
-#EXTINF:-1,tvg-id="上海卫视4K" tvg-name="上海卫视4K" tvg-logo="https://epg.112114.xyz/logo/上海卫视4K.png" group-title="卫视oc",上海卫视4K
+#EXTINF:-1,tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://epg.112114.xyz/logo/东方卫视4K.png" group-title="卫视oc",东方卫视4K
 http://140.245.35.214:50800/zgst.php?id=sh4k
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视oc",江苏卫视4K
 http://140.245.35.214:50800/zgst.php?id=js4k

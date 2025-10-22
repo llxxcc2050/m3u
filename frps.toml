@@ -1,0 +1,8 @@
+[common]
+bind_port = 7000                # frpc 客户端连接端口
+dashboard_port = 7500           # Web 控制台端口
+dashboard_user = llxxcc2025          # 登录用户名
+dashboard_pwd = Llxxcc1214        # 登录密码
+token = Llxxcc1214             # 与客户端保持一致的密钥
+vhost_http_port = 8080          # (可选) HTTP 代理端口
+vhost_https_port = 8443         # (可选) HTTPS 代理端口

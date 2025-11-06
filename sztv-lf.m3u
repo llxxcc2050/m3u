@@ -1,0 +1,20 @@
+#EXTM3U x-tvg-url="https://epg.tv.darwinchow.com/epg.xml.gz" catchup="append" catchup-source="&playback=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="sztv",深圳卫视4K
+http://125.208.21.128:10860/sztv.php?id=szws4k
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="sztv",深圳卫视
+http://125.208.21.128:10860/sztv.php?id=szws
+#EXTINF:-1,tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" group-title="sztv",深圳都市频道
+http://125.208.21.128:10860/sztv.php?id=szds
+#EXTINF:-1,tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png" group-title="sztv",深圳电视剧频道
+http://125.208.21.128:10860/sztv.php?id=szdsj
+#EXTINF:-1,tvg-id="深圳财经生活" tvg-name="深圳财经生活" tvg-logo="https://epg.112114.xyz/logo/深圳财经生活.png" group-title="sztv",深圳财经生活
+http://125.208.21.128:10860/sztv.php?id=szcj
+#EXTINF:-1,tvg-id="深圳少儿" tvg-name="深圳少儿" tvg-logo="https://epg.112114.xyz/logo/深圳少儿.png" group-title="sztv",深圳少儿频道
+http://125.208.21.128:10860/sztv.php?id=szse
+#EXTINF:-1,tvg-id="深圳移动电视" tvg-name="深圳移动电视" tvg-logo="https://epg.112114.xyz/logo/深圳移动电视.png" group-title="sztv",深圳移动电视
+http://125.208.21.128:10860/sztv.php?id=szyd
+#EXTINF:-1,tvg-id="深圳宜和购物" tvg-name="深圳宜和购物" tvg-logo="https://epg.112114.xyz/logo/深圳宜和购物.png" group-title="sztv",深圳宜和购物
+http://125.208.21.128:10860/sztv.php?id=szyh
+#EXTINF:-1,tvg-id="深圳深圳" tvg-name="深圳深圳" tvg-logo="https://epg.112114.xyz/logo/深圳深圳.png" group-title="sztv",深圳深圳
+http://125.208.21.128:10860/sztv.php?id=szgj
+

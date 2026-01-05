@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",cctv1
+http://8.138.7.223/tv/2026.php?id=1
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",cctv2
+http://8.138.7.223/tv/2026.php?id=2
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",cctv3
+http://8.138.7.223/tv/2026.php?id=3
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",cctv4
+http://8.138.7.223/tv/2026.php?id=4
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",cctv13
+http://8.138.7.223/tv/2026.php?id=5
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",cctv14
+http://8.138.7.223/tv/2026.php?id=6
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="其他",1
+http://8.138.7.223/tv/2026.php?id=7
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="其他",2
+http://8.138.7.223/tv/2026.php?id=8
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="其他",3
+http://8.138.7.223/tv/2026.php?id=9
+#EXTINF:-1,tvg-id="4K综艺" tvg-name="4K综艺" tvg-logo="https://epg.112114.xyz/logo/4K综艺.png" group-title="其他",4
+http://8.138.7.223/tv/2026.php?id=10
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="其他",5
+http://8.138.7.223/tv/2026.php?id=11
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="其他",6
+http://8.138.7.223/tv/2026.php?id=12
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="其他",7
+http://8.138.7.223/tv/2026.php?id=13
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="其他",8
+http://8.138.7.223/tv/2026.php?id=14
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="其他",9
+http://8.138.7.223/tv/2026.php?id=15
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="其他",10
+http://8.138.7.223/tv/2026.php?id=16
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="其他",11
+http://8.138.7.223/tv/2026.php?id=17
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="其他",12
+http://8.138.7.223/tv/2026.php?id=18
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="其他",13
+http://8.138.7.223/tv/2026.php?id=19
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="其他",14
+http://8.138.7.223/tv/2026.php?id=20
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="其他",15
+http://8.138.7.223/tv/2026.php?id=21
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="其他",16
+http://8.138.7.223/tv/2026.php?id=22
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="其他",17
+http://8.138.7.223/tv/2026.php?id=23
+#EXTINF:-1,tvg-id="18" tvg-name="18" tvg-logo="https://epg.112114.xyz/logo/18.png" group-title="其他",18
+http://8.138.7.223/tv/2026.php?id=24
+#EXTINF:-1,tvg-id="19" tvg-name="19" tvg-logo="https://epg.112114.xyz/logo/19.png" group-title="其他",19
+http://8.138.7.223/tv/2026.php?id=25
+#EXTINF:-1,tvg-id="20" tvg-name="20" tvg-logo="https://epg.112114.xyz/logo/20.png" group-title="其他",20
+http://8.138.7.223/tv/2026.php?id=26
+#EXTINF:-1,tvg-id="21" tvg-name="21" tvg-logo="https://epg.112114.xyz/logo/21.png" group-title="其他",21
+http://8.138.7.223/tv/2026.php?id=27
+#EXTINF:-1,tvg-id="22" tvg-name="22" tvg-logo="https://epg.112114.xyz/logo/22.png" group-title="其他",22
+http://8.138.7.223/tv/2026.php?id=28
+#EXTINF:-1,tvg-id="23" tvg-name="23" tvg-logo="https://epg.112114.xyz/logo/23.png" group-title="其他",23
+http://8.138.7.223/tv/2026.php?id=29
+#EXTINF:-1,tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="其他",24
+http://8.138.7.223/tv/2026.php?id=30
+#EXTINF:-1,tvg-id="25" tvg-name="25" tvg-logo="https://epg.112114.xyz/logo/25.png" group-title="其他",25
+http://8.138.7.223/tv/2026.php?id=31
+#EXTINF:-1,tvg-id="26" tvg-name="26" tvg-logo="https://epg.112114.xyz/logo/26.png" group-title="其他",26
+http://8.138.7.223/tv/2026.php?id=32
+#EXTINF:-1,tvg-id="27" tvg-name="27" tvg-logo="https://epg.112114.xyz/logo/27.png" group-title="其他",27
+http://8.138.7.223/tv/2026.php?id=33
+#EXTINF:-1,tvg-id="28" tvg-name="28" tvg-logo="https://epg.112114.xyz/logo/28.png" group-title="其他",28
+http://8.138.7.223/tv/2026.php?id=34
+#EXTINF:-1,tvg-id="29" tvg-name="29" tvg-logo="https://epg.112114.xyz/logo/29.png" group-title="其他",29
+http://8.138.7.223/tv/2026.php?id=35
+#EXTINF:-1,tvg-id="30" tvg-name="30" tvg-logo="https://epg.112114.xyz/logo/30.png" group-title="其他",30
+http://8.138.7.223/tv/2026.php?id=36
+#EXTINF:-1,tvg-id="31" tvg-name="31" tvg-logo="https://epg.112114.xyz/logo/31.png" group-title="其他",31
+http://8.138.7.223/tv/2026.php?id=37
+#EXTINF:-1,tvg-id="32" tvg-name="32" tvg-logo="https://epg.112114.xyz/logo/32.png" group-title="其他",32
+http://8.138.7.223/tv/2026.php?id=38
+#EXTINF:-1,tvg-id="33" tvg-name="33" tvg-logo="https://epg.112114.xyz/logo/33.png" group-title="其他",33
+http://8.138.7.223/tv/2026.php?id=39
+#EXTINF:-1,tvg-id="34" tvg-name="34" tvg-logo="https://epg.112114.xyz/logo/34.png" group-title="其他",34
+http://8.138.7.223/tv/2026.php?id=40
+#EXTINF:-1,tvg-id="35" tvg-name="35" tvg-logo="https://epg.112114.xyz/logo/35.png" group-title="其他",35
+http://8.138.7.223/tv/2026.php?id=41
+#EXTINF:-1,tvg-id="36" tvg-name="36" tvg-logo="https://epg.112114.xyz/logo/36.png" group-title="其他",36
+http://8.138.7.223/tv/2026.php?id=42
+#EXTINF:-1,tvg-id="37" tvg-name="37" tvg-logo="https://epg.112114.xyz/logo/37.png" group-title="其他",37
+http://8.138.7.223/tv/2026.php?id=43
+#EXTINF:-1,tvg-id="38" tvg-name="38" tvg-logo="https://epg.112114.xyz/logo/38.png" group-title="其他",38
+http://8.138.7.223/tv/2026.php?id=44
+#EXTINF:-1,tvg-id="39" tvg-name="39" tvg-logo="https://epg.112114.xyz/logo/39.png" group-title="其他",39
+http://8.138.7.223/tv/2026.php?id=45
+#EXTINF:-1,tvg-id="40" tvg-name="40" tvg-logo="https://epg.112114.xyz/logo/40.png" group-title="其他",40
+http://8.138.7.223/tv/2026.php?id=46
+#EXTINF:-1,tvg-id="41" tvg-name="41" tvg-logo="https://epg.112114.xyz/logo/41.png" group-title="其他",41
+http://8.138.7.223/tv/2026.php?id=47
+#EXTINF:-1,tvg-id="42" tvg-name="42" tvg-logo="https://epg.112114.xyz/logo/42.png" group-title="其他",42
+http://8.138.7.223/tv/2026.php?id=48
+#EXTINF:-1,tvg-id="43" tvg-name="43" tvg-logo="https://epg.112114.xyz/logo/43.png" group-title="其他",43
+http://8.138.7.223/tv/2026.php?id=49
+#EXTINF:-1,tvg-id="44" tvg-name="44" tvg-logo="https://epg.112114.xyz/logo/44.png" group-title="其他",44
+http://8.138.7.223/tv/2026.php?id=50
+#EXTINF:-1,tvg-id="45" tvg-name="45" tvg-logo="https://epg.112114.xyz/logo/45.png" group-title="其他",45
+http://8.138.7.223/tv/2026.php?id=51
+#EXTINF:-1,tvg-id="46" tvg-name="46" tvg-logo="https://epg.112114.xyz/logo/46.png" group-title="其他",46
+http://8.138.7.223/tv/2026.php?id=52
+#EXTINF:-1,tvg-id="47" tvg-name="47" tvg-logo="https://epg.112114.xyz/logo/47.png" group-title="其他",47
+http://8.138.7.223/tv/2026.php?id=53

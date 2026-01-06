@@ -1,0 +1,47 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://www.go-iptv.ggff.net/sub.php?user=k8-v7ysiDAbomjh0Y0xNoH-l
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV1.png" group-title="央视卫视",CCTV1
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078203&livepid=600001859&defn=fhd
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV2.png" group-title="央视卫视",CCTV2
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024075403&livepid=600001800&defn=fhd
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV3.png" group-title="央视卫视",CCTV3
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024068503&livepid=600001801&defn=fhd
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV4.png" group-title="央视卫视",CCTV4
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078303&livepid=600001814&defn=fhd
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV5.png" group-title="央视卫视",CCTV5
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078403&livepid=600001818&defn=fhd
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV5+.png" group-title="央视卫视",CCTV5+
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078003&livepid=600001817&defn=fhd
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV6.png" group-title="央视卫视",CCTV6
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2013693903&livepid=600108442&defn=fhd
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV7.png" group-title="央视卫视",CCTV7
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024072003&livepid=600004092&defn=fhd
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV8.png" group-title="央视卫视",CCTV8
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078503&livepid=600001803&defn=fhd
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV9.png" group-title="央视卫视",CCTV9
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078603&livepid=600004078&defn=fhd
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV10.png" group-title="央视卫视",CCTV10
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078703&livepid=600001805&defn=fhd
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV11.png" group-title="央视卫视",CCTV11
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027248703&livepid=600001806&defn=fhd
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV12.png" group-title="央视卫视",CCTV12
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027248803&livepid=600001807&defn=fhd
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV13.png" group-title="央视卫视",CCTV13
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024079003&livepid=600001811&defn=fhd
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV14.png" group-title="央视卫视",CCTV14
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027248903&livepid=600001809&defn=fhd
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV15.png" group-title="央视卫视",CCTV15
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027249003&livepid=600001815&defn=fhd
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV16.png" group-title="央视卫视",CCTV16
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027249103&livepid=600098637&defn=fhd
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV16.png" group-title="央视卫视",CCTV16(4K)
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027249303&livepid=600099502&defn=fhd
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV17.png" group-title="央视卫视",CCTV17
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027249403&livepid=600001810&defn=fhd
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/666-/main/CCTV4K.png" group-title="央视卫视",CCTV4K
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027249503&livepid=600002264&defn=fhd
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/666-/main/CCTV8K.png" group-title="央视卫视",CCTV8K
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2026774121&livepid=600156816&defn=fhd

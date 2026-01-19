@@ -1,47 +1,124 @@
-#EXTM3U
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://www.go-iptv.ggff.net/sub.php?user=k8-v7ysiDAbomjh0Y0xNoH-l
+✅ 订阅链接已生成:
+http://125.208.21.128:12039/sub/go-iptv.m3u
+最新id获取
+http://103.109.20.169:10196/yspnewid.php
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV1.png" group-title="央视卫视",CCTV1
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078203&livepid=600001859&defn=fhd
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV2.png" group-title="央视卫视",CCTV2
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024075403&livepid=600001800&defn=fhd
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV3.png" group-title="央视卫视",CCTV3
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024068503&livepid=600001801&defn=fhd
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV4.png" group-title="央视卫视",CCTV4
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078303&livepid=600001814&defn=fhd
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV5.png" group-title="央视卫视",CCTV5
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078403&livepid=600001818&defn=fhd
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV5+.png" group-title="央视卫视",CCTV5+
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078003&livepid=600001817&defn=fhd
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV6.png" group-title="央视卫视",CCTV6
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2013693903&livepid=600108442&defn=fhd
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV7.png" group-title="央视卫视",CCTV7
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024072003&livepid=600004092&defn=fhd
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV8.png" group-title="央视卫视",CCTV8
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078503&livepid=600001803&defn=fhd
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV9.png" group-title="央视卫视",CCTV9
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078603&livepid=600004078&defn=fhd
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV10.png" group-title="央视卫视",CCTV10
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078703&livepid=600001805&defn=fhd
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV11.png" group-title="央视卫视",CCTV11
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027248703&livepid=600001806&defn=fhd
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV12.png" group-title="央视卫视",CCTV12
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027248803&livepid=600001807&defn=fhd
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV13.png" group-title="央视卫视",CCTV13
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024079003&livepid=600001811&defn=fhd
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV14.png" group-title="央视卫视",CCTV14
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027248903&livepid=600001809&defn=fhd
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV15.png" group-title="央视卫视",CCTV15
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027249003&livepid=600001815&defn=fhd
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV16.png" group-title="央视卫视",CCTV16
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027249103&livepid=600098637&defn=fhd
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV16.png" group-title="央视卫视",CCTV16(4K)
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027249303&livepid=600099502&defn=fhd
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CCTV17.png" group-title="央视卫视",CCTV17
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027249403&livepid=600001810&defn=fhd
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/666-/main/CCTV4K.png" group-title="央视卫视",CCTV4K
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027249503&livepid=600002264&defn=fhd
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/luoluowoaini/666-/main/CCTV8K.png" group-title="央视卫视",CCTV8K
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2026774121&livepid=600156816&defn=fhd
+#EXTM3U
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2024078201&livepid=600001859&defn=fhd
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2024078203&livepid=600001859&defn=fhd
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV2
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2024075403&livepid=600001800&defn=fhd
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV3
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2024068503&livepid=600001801&defn=fhd
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV4
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2029797103&livepid=600001814&defn=fhd
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2024078403&livepid=600001818&defn=fhd
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2024078003&livepid=600001817&defn=fhd
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2013693903&livepid=600108442&defn=fhd
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV7
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2024072003&livepid=600004092&defn=fhd
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV8
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2029793003&livepid=600001803&defn=fhd
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV9
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2024078603&livepid=600004078&defn=fhd
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV10
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2024078703&livepid=600001805&defn=fhd
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV11
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2027248703&livepid=600001806&defn=fhd
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV12
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2027248803&livepid=600001807&defn=fhd
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV13
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2029797203&livepid=600001811&defn=fhd
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV14
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2027248903&livepid=600001809&defn=fhd
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV15
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2027249003&livepid=600001815&defn=fhd
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2027249103&livepid=600098637&defn=fhd
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16(4K)
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2027249303&livepid=600099502&defn=fhd
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV17
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2027249403&livepid=600001810&defn=fhd
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png",CCTV4K
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2027249503&livepid=600002264&defn=fhd
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2029810301&livepid=600002264&defn=fhd
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png",CCTV8K
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2026774121&livepid=600156816&defn=fhd
+https://ysp.koyeb.app/ysp?token=qhw_ZdUq3AvPzAMrHwvuPdFudiZ3WUtF&cnlid=2026774101&livepid=600156816&defn=fhd
+
+CCTV1, ***/cnlid=2024078201&livepid=600001859
+CCTV2, ***/cnlid=2024075401&livepid=600001800
+CCTV3, ***/cnlid=2024068501&livepid=600001801 
+CCTV4, ***/cnlid=2029797101&livepid=600001814 
+CCTV5, ***/cnlid=2024078401&livepid=600001818 
+CCTV5+, ***/cnlid=2024078001&livepid=600001817 
+CCTV6, ***/cnlid=2013693901&livepid=600108442 
+CCTV7, ***/cnlid=2024072001&livepid=600004092 
+CCTV8, ***/cnlid=2029793001&livepid=600001803 
+CCTV9, ***/cnlid=2024078601&livepid=600004078 
+CCTV10, ***/cnlid=2024078701&livepid=600001805 
+CCTV11, ***/cnlid=2027248701&livepid=600001806 
+CCTV12, ***/cnlid=2027248801&livepid=600001807 
+CCTV13, ***/cnlid=2029797201&livepid=600001811 
+CCTV14, ***/cnlid=2027248901&livepid=600001809 
+CCTV15, ***/cnlid=2027249001&livepid=600001815 
+CCTV16-HD, ***/cnlid=2027249101&livepid=600098637 
+CCTV16(4K）, ***/cnlid=2027249301&livepid=600099502 
+CCTV17, ***/cnlid=2027249401&livepid=600001810 
+CCTV4K, ***/cnlid=2029810301&livepid=600002264 
+CCTV8K, ***/cnlid=2026774101&livepid=600156816 
+CGTN, ***/cnlid=2024181701&livepid=600014550 
+CGTN法语频道, ***/cnlid=2024181801&livepid=600084704 
+CGTN俄语频道, ***/cnlid=2024181901&livepid=600084758 
+CGTN阿拉伯语频道, ***/cnlid=2024182001&livepid=600084782 
+CGTN西班牙语频道, ***/cnlid=2024182101&livepid=600084744 
+CGTN外语纪录频道, ***/cnlid=2024182301&livepid=600084781 
+CCTV风云剧场频道, ***/cnlid=2025637103&livepid=600099658 
+CCTV第一剧场频道, ***/cnlid=2026874203&livepid=600099655 
+CCTV怀旧剧场频道, ***/cnlid=2026874303&livepid=600099620 
+CCTV世界地理频道, ***/cnlid=2026874403&livepid=600099637 
+CCTV风云音乐频道, ***/cnlid=2026874503&livepid=600099660 
+CCTV兵器科技频道, ***/cnlid=2026874603&livepid=600099649 
+CCTV风云足球频道, ***/cnlid=2026966203&livepid=600099636 
+CCTV高尔夫·网球频道, ***/cnlid=2026874703&livepid=600099659 
+CCTV女性时尚频道, ***/cnlid=2026874803&livepid=600099650 
+CCTV央视文化精品频道, ***/cnlid=2026874903&livepid=600099653 
+CCTV央视台球频道, ***/cnlid=2026875003&livepid=600099652 
+CCTV电视指南频道, ***/cnlid=2026875103&livepid=600099656 
+CCTV卫生健康频道, ***/cnlid=2025637003&livepid=600099651 
+北京卫视, ***/cnlid=2024052703&livepid=600002309 
+江苏卫视, ***/cnlid=2024171103&livepid=600002521 
+东方卫视, ***/cnlid=2024054503&livepid=600002483 
+浙江卫视, ***/cnlid=2024054703&livepid=600002520 
+湖南卫视, ***/cnlid=2024054803&livepid=600002475 
+湖北卫视, ***/cnlid=2024171203&livepid=600002508 
+广东卫视, ***/cnlid=2024060903&livepid=600002485 
+广西卫视, ***/cnlid=2024060703&livepid=600002509 
+黑龙江卫视, ***/cnlid=2029797003&livepid=600002498 
+海南卫视, ***/cnlid=2024055603&livepid=600002506 
+重庆卫视, ***/cnlid=2024061103&livepid=600002531 
+深圳卫视, ***/cnlid=2024061303&livepid=600002481 
+四川卫视, ***/cnlid=2024061403&livepid=600002516 
+河南卫视, ***/cnlid=2029797303&livepid=600002525 
+福建东南卫视, ***/cnlid=2024061503&livepid=600002484 
+贵州卫视, ***/cnlid=2024061603&livepid=600002490 
+江西卫视, ***/cnlid=2024061703&livepid=600002503 
+辽宁卫视, ***/cnlid=2024171303&livepid=600002505 
+安徽卫视, ***/cnlid=2024171403&livepid=600002532 
+河北卫视, ***/cnlid=2024171503&livepid=600002493 
+山东卫视, ***/cnlid=2029787903&livepid=600002513 
+天津卫视, ***/cnlid=2019927003&livepid=600152137 
+吉林卫视, ***/cnlid=2025561503&livepid=600190405 
+陕西卫视, ***/cnlid=2029795103&livepid=600190400 
+宁夏卫视, ***/cnlid=2025608503&livepid=600190737 
+内蒙古卫视, ***/cnlid=2025561203&livepid=600190401 
+云南卫视, ***/cnlid=2025561303&livepid=600190402 
+山西卫视, ***/cnlid=2025560803&livepid=600190407 
+青海卫视, ***/cnlid=2025559103&livepid=600190406 
+西藏卫视, ***/cnlid=2025558003&livepid=600190403 
+中国教育电视台1频道, ***/cnlid=2022823801&livepid=600171827 
+新疆卫视, ***/cnlid=2019927403&livepid=600152138

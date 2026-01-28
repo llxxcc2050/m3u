@@ -6,8 +6,8 @@ https://udp-stream.zeabur.app/sub/youtube.m3u
 https://test96.178.indevs.in/?id=fN9uYWCjQaw
 #EXTINF:-1 group-title="youtube中文新聞直播" tvg-logo="https://i.ytimg.com/vi/Ej3LQM_lTEw/hqdefault.jpg?v=696b2a3a&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB6zeLZp24Fj04b74oy2sUFdlDGCg",寰宇新聞 頻道
 https://test96.178.indevs.in/?id=Ej3LQM_lTEw
-#EXTINF:-1 group-title="youtube中文新聞直播" tvg-logo="https://i.ytimg.com/vi/6IquAgfvYmc/hqdefault.jpg?v=65a2973d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAFMKw8OY_fR5jUtkGTsShj6MUNzw",寰宇新聞 頻道
-https://test96.178.indevs.in/?id=6IquAgfvYmc
+#EXTINF:-1 group-title="youtube中文新聞直播" tvg-logo="https://i.ytimg.com/vi/6IquAgfvYmc/hqdefault.jpg?v=65a2973d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAFMKw8OY_fR5jUtkGTsShj6MUNzw",寰宇新聞 台湾
+https://test96.178.indevs.in/?id=w87VGpgd90U
 #EXTINF:-1 group-title="youtube中文新聞直播" tvg-logo="https://i.ytimg.com/vi/vr3XyVCR4T0/hqdefault.jpg?v=695a32c7&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCXtGjt-aQpagmyYeg6HQKpzOWB_g",中天電視
 https://test96.178.indevs.in/?id=vr3XyVCR4T0
 #EXTINF:-1 group-title="youtube中文新聞直播" tvg-logo="https://i.ytimg.com/vi/xL0ch83RAK8/hqdefault.jpg?v=606152e7&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBQRe-1yPx17S8r5BaTOyAFA2mLKQ",台視新聞 TTV NEWS
@@ -50,11 +50,6 @@ https://test96.178.indevs.in/?id=Qo9QwuCpV3s
 https://test96.178.indevs.in/?id=yUx5lB4mhZk
 #EXTINF:-1 group-title="youtube中文新聞直播" tvg-logo="https://i.ytimg.com/vi/tDg3bJFYLzI/hqdefault.jpg?v=630ecf51&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDiEzIzYutRS3mMS60wmMmRAq0Kiw",國會頻道
 https://test96.178.indevs.in/?id=tDg3bJFYLzI
-#EXTINF:-1 group-title="youtube中文新聞直播" tvg-logo="https://i.ytimg.com/vi/w87VGpgd90U/hqdefault.jpg?v=656319c9&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBIIUhtNxunyPaVvk897Lzp2Ov8IA",寰宇新聞 頻道
-https://test96.178.indevs.in/?id=Ej3LQM_lTEw
-https://test96.178.indevs.in/?id=6IquAgfvYmc
-#EXTINF:-1 group-title="youtube中文新聞直播" tvg-logo="https://i.ytimg.com/vi/w87VGpgd90U/hqdefault.jpg?v=656319c9&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBIIUhtNxunyPaVvk897Lzp2Ov8IA",寰宇新聞 台湾
-https://test96.178.indevs.in/?id=w87VGpgd90U
 #EXTINF:-1 group-title="youtube中文新聞直播" tvg-logo="https://i.ytimg.com/vi/V1p33hqPrUk/hqdefault.jpg?v=69152cce&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDppD7ycU81Vg4Jl1V5EDPYkxXy6w",東森新聞 CH51
 https://test96.178.indevs.in/?id=V1p33hqPrUk
 #EXTINF:-1 group-title="youtube中文新聞直播" tvg-logo="https://i.ytimg.com/vi/pF507BLtbqU/hqdefault.jpg?v=6970ea4a&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBlJRyGFgNhkThxLARcWMSsCtWEKQ",三立iNEWS

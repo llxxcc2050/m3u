@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+
+陕西电信,http://124.114.100.171:6789/rtp/239.111.205.40:5140
+广东电信,http://113.89.245.231:4200/rtp/239.77.1.180:5146

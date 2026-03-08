@@ -12,9 +12,9 @@ https://9898.686681.xyz/fhxyh.php?from=web&id=fhzw$fhx web
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" http-user-agent="okhttp" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="香港",凤凰香港台-凤凰秀-9898
 https://9898.686681.xyz/fhxyh.php?from=web&id=fhhk$fhx web
 
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="凤凰台",,凤凰资讯台-凤凰秀
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="凤凰台",,凤凰资讯台-凤凰秀-s16
 https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhzx$fhx
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="凤凰台",凤凰中文台-凤凰秀
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="凤凰台",凤凰中文台-凤凰秀-s16
 https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhzw$fhx
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="凤凰台",凤凰香港台-凤凰秀
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="凤凰台",凤凰香港台-凤凰秀-s16
 https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhhk$fhx

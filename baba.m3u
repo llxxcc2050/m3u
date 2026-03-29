@@ -1,4 +1,13 @@
 #EXTM3U x-tvg-url="https://epg.tv.darwinchow.com/epg.xml.gz" catchup="append" catchup-source="&playback=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://static.tv.darwinchow.com/logo/凤凰卫视资讯台.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",凤凰卫视资讯台
+https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WbnZy0meyFEZJqGZThNyAwgf6yq5z1mj8T2
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://static.tv.darwinchow.com/logo/凤凰卫视资讯台.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",凤凰卫视资讯台
+https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WbnZy0meyFEZJqGZThNyAwgf6yq5z1mj8T2
+#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://static.tv.darwinchow.com/logo/凤凰卫视中文台.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",凤凰卫视中文台
+https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WbnZy0meyFEZJqGZThNyAwgf6yq5z1mj8T2
+#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://static.tv.darwinchow.com/logo/凤凰卫视中文台.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",凤凰卫视中文台
+https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WbnZy0meyFEZJqGZThNyAwgf6yq5z1mj8T2
+
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="凤凰台",,凤凰资讯台-凤凰秀
 https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhzx$fhx|User-Agent=okhttp
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="凤凰台",凤凰中文台-凤凰秀

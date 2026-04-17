@@ -1,0 +1,55 @@
+#EXTM3U x-tvg-url="https://gcore.jsdelivr.net/gh/doubebly/TWEPG/tw.xml"
+#EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/4gtv-4gtv009.png" group-title="",中天新聞台-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=4gtv-4gtv009&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="litv-longturn14" tvg-name="寰宇新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/litv-longturn14.png" group-title="",寰宇新聞台-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=litv-longturn14&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="4gtv-4gtv156" tvg-name="寰宇新聞台灣台" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/4gtv-4gtv156.png" group-title="",寰宇新聞台灣台-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=4gtv-4gtv156&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="4gtv-4gtv158" tvg-name="寰宇財經台" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/4gtv-4gtv158.png" group-title="",寰宇財經台-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=4gtv-4gtv158&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="4gtv-4gtv074" tvg-name="中視新聞" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/4gtv-4gtv074.png" group-title="",中視新聞-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=4gtv-4gtv074&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="4gtv-4gtv041" tvg-name="華視" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/4gtv-4gtv041.png" group-title="",華視-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=4gtv-4gtv041&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="4gtv-4gtv052" tvg-name="華視新聞" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/4gtv-4gtv052.png" group-title="",華視新聞-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=4gtv-4gtv052&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="4gtv-live089" tvg-name="三立新聞iNEWS" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/4gtv-live089.png" group-title="",三立新聞iNEWS-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=iNEWS&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="litv-xinchuang20" tvg-name="ELTV生活英語台" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/litv-xinchuang20.png" group-title="",ELTV生活英語台-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=litv-xinchuang20&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="4gtv-4gtv084" tvg-name="國會頻道1" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/4gtv-4gtv084.png" group-title="",國會頻道1-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=4gtv-4gtv084&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="4gtv-4gtv085" tvg-name="國會頻道2" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/4gtv-4gtv085.png" group-title="",國會頻道2-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=4gtv-4gtv085&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="litv-ftv16" tvg-name="好消息" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/litv-ftv16.png" group-title="",好消息-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=litv-ftv16&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="litv-ftv17" tvg-name="好消息2台" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/litv-ftv17.png" group-title="",好消息2台-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=litv-ftv17&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="nnews-zh" tvg-name="倪珍播新聞" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/nnews-zh.png" group-title="",倪珍播新聞-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=nnews-zh&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="4gtv-4gtv104" tvg-name="第1商業台" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/4gtv-4gtv104.png" group-title="",第1商業台-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=4gtv-4gtv104&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="daystar" tvg-name="DayStar" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/daystar.png" group-title="",DayStar-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=daystar&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="litv-xinchuang19" tvg-name="Smart知識台" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/litv-xinchuang19.png" group-title="",Smart知識台-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=litv-xinchuang19&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="litv-xinchuang22" tvg-name="台灣戲劇台" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/litv-xinchuang22.png" group-title="",台灣戲劇台-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=litv-xinchuang22&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="4gtv-4gtv102" tvg-name="東森購物1台" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/4gtv-4gtv102.png" group-title="",東森購物1台-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=4gtv-4gtv102&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="4gtv-4gtv103" tvg-name="東森購物2台" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/4gtv-4gtv103.png" group-title="",東森購物2台-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=4gtv-4gtv103&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="litv-xinchuang21" tvg-name="龍華經典台" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/litv-xinchuang21.png" group-title="",龍華經典台-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=litv-xinchuang21&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="litv-xinchuang18" tvg-name="龍華戲劇台" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/litv-xinchuang18.png" group-title="",龍華戲劇台-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=litv-xinchuang18&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="litv-xinchuang02" tvg-name="龍華洋片台" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/litv-xinchuang02.png" group-title="",龍華洋片台-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=litv-xinchuang02&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="litv-xinchuang01" tvg-name="龍華卡通台" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/litv-xinchuang01.png" group-title="",龍華卡通台-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=litv-xinchuang01&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="litv-xinchuang12" tvg-name="龍華偶像台" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/litv-xinchuang12.png" group-title="",龍華偶像台-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=litv-xinchuang12&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="litv-xinchuang11" tvg-name="龍華日韓台" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/litv-xinchuang11.png" group-title="",龍華日韓台-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=litv-xinchuang11&fun=OF&proxy=true&token=861214
+#EXTINF:-1 tvg-id="litv-xinchuang03" tvg-name="龍華電影台" tvg-logo="https://gcore.jsdelivr.net/gh/doubebly/TVlogo/logo/litv-xinchuang03.png" group-title="",龍華電影台-ofiii
+https://ofiii.00oo.eu.cc/index.m3u8?pid=litv-xinchuang03&fun=OF&proxy=true&token=861214

@@ -1,9 +1,10 @@
 #EXTM3U x-tvg-url="https://epg.tv.darwinchow.com/epg.xml.gz" catchup="append" catchup-source="&playback=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://static.tv.darwinchow.com/logo/凤凰卫视资讯台.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",凤凰卫视资讯台
-https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WbnZy0meyFEZJqGZThNyAwgf6yq5z1mj8T2
-#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://static.tv.darwinchow.com/logo/凤凰卫视中文台.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",凤凰卫视中文台
-https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WbnZy0meyFEZJqGZThNyAwgf6yq5z1mj8T2
-
+#EXTINF:-1 group-title="🔮港澳台直播" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" epg-url="https://123.tv1288.xyz/2026.xml",凤凰资讯
+http://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 group-title="🔮港澳台直播" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" epg-url="https://123.tv1288.xyz/2026.xml",凤凰中文
+http://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 group-title="🔮港澳台直播" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" epg-url="https://123.tv1288.xyz/2026.xml",凤凰香港
+http://cdn6.163189.xyz/163189/fhhk
 
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="凤凰台",,凤凰资讯台-凤凰秀
 https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhzx$fhx|User-Agent=okhttp

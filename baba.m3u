@@ -47,19 +47,20 @@ http://69.30.245.50/live/cctv9.m3u8
 #EXTINF:-1 tvg-name="CCTV10科教" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png" group-title="央视",CCTV10科教
 http://69.30.245.50/live/cctv10.m3u8
 #EXTINF:-1 tvg-name="CCTV11戏曲" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV11.png" group-title="央视",CCTV11戏曲
-http://207.56.13.146:81/cdnlive/cctv11.m3u8
+http://home.wscxy.fun:30100/rtp/233.18.204.77:5140
 #EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12.png" group-title="央视",CCTV12社会与法
-http://207.56.13.146:81/cdnlive/cctv12.m3u8
+http://home.wscxy.fun:30100/rtp/233.18.204.78:5140
 #EXTINF:-1 tvg-name="CCTV13新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV13.png" group-title="央视",CCTV13新闻
-http://207.56.13.146:81/cdnlive/cctv13.m3u8
+http://home.wscxy.fun:30100/rtp/233.18.204.79:5140
 #EXTINF:-1 tvg-name="CCTV14少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV14.png" group-title="央视",CCTV14少儿
-http://207.56.13.146:81/cdnlive/cctv14.m3u8
+http://home.wscxy.fun:30100/rtp/233.18.204.80:5140
 #EXTINF:-1 tvg-name="CCTV15音乐" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV15.png" group-title="央视",CCTV15音乐
-http://207.56.13.146:81/cdnlive/cctv15.m3u8
+http://home.wscxy.fun:30100/rtp/233.18.204.81:5140
 #EXTINF:-1 tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV16.png" group-title="央视",CCTV16奥林匹克
-http://207.56.13.146:81/cdnlive/cctv16.m3u8
+http://home.wscxy.fun:30100/rtp/233.18.204.114:5140
+http://home.wscxy.fun:30100/rtp/233.18.204.215:5140
 #EXTINF:-1 tvg-name="CCTV17农业农村" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png" group-title="央视",CCTV17农业农村
-http://207.56.13.146:81/cdnlive/cctv17.m3u8
+http://home.wscxy.fun:30100/rtp/233.18.204.83:5140
 #EXTINF:-1 svg-id="CCTV4欧洲" svg-name="CCTV4欧洲" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/315/202204010055_1626831010992_H32_1080.webp" group-title="央视",CCTV4欧洲
 https://fnmg.686681.xyz/608807419
 #EXTINF:-1 svg-id="CCTV4美洲" svg-name="CCTV4美洲" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/344/202204010055_1626830746239_H32_1080.webp" group-title="央视",CCTV4美洲

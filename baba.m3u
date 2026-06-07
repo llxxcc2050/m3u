@@ -35,7 +35,7 @@ http://69.30.245.50/live/cctv4.m3u8
 #EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="央视",CCTV5体育
 http://69.30.245.50/live/cctv5.m3u8
 #EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5+.png" group-title="央视",CCTV5+体育赛事
-http://207.56.13.146:81/cdnlive/cctv5p.m3u8
+http://107.150.60.122/live/cctv5p.m3u8
 #EXTINF:-1 tvg-name="CCTV6电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV6.png" group-title="央视",CCTV6电影
 http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-name="CCTV7国防军事" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="央视",CCTV7国防军事

@@ -17,6 +17,8 @@ https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhhk$fhx|User-Agent=okhttp
 http://120.76.248.139/live/bfgd/4200000180.m3u8
 #http://171.213.133.52:8888/udp/239.94.1.163:5140
 
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="央视",CCTV4K-2160p
+http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="央视",CCTV4K
 http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 http://home.wscxy.fun:30100/udp/233.18.204.188:5140

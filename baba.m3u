@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.tv.darwinchow.com/epg.xml.gz" catchup="append" catchup-source="&playback=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="凤凰台",,凤凰资讯台-凤凰秀
-http://101.35.240.114:88/phenix.php?id=fhzx|User-Agent=AptvPlayer
+http://101.35.240.114:88/phenix.php?id=fhzx|User-Agent=iPhone
 https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhzx$fhx|User-Agent=okhttp
 
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="凤凰台",凤凰中文台-凤凰秀

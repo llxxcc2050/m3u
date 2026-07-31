@@ -1,14 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" tvg-logo="http://域名/logo/cn/cctvwhite/CCTV4K.png" group-title="iTV",CCTV-4K
+#EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4K.png" group-title="iTV",CCTV-4K
 http://192.168.100.133:5888/udp/239.111.205.38:5140
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://域名/logo/cn/cctvwhite/CCTV16.png" group-title="iTV",CCTV-16 4K
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="iTV",CCTV-16 4K
 http://192.168.100.133:5888/udp/239.111.205.134:5140
 
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://域名/logo/cn/cctvwhite/华数4K.png" group-title="iTV",华数 4K
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/huashu.png" group-title="iTV",华数 4K
 http://192.168.100.133:5888/udp/239.112.205.186:5140
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://域名/logo/cn/cctvwhite/爱上4K.png" group-title="iTV",爱上 4K
+#EXTINF:-1 tvg-id="242" tvg-name="爱上4K" tvg-logo="http://域名/logo/cn/ott/aishang4k.png" group-title="iTV",爱上4K
+http://192.168.100.133:5888/udp/239.112.205.186:5140
 http://192.168.100.133:5888/rtp/239.109.205.53:8360
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://域名/logo/cn/cctvwhite/多彩文体.png" group-title="iTV",多彩文体 4K
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/多彩文体.png" group-title="iTV",多彩文体 4K
 http://192.168.100.133:5888/udp/239.109.205.51:8344
 http://192.168.100.133:5888/udp/239.112.205.236:5140
 
@@ -32,44 +33,44 @@ http://192.168.100.133:5888/udp/239.111.205.51:5140
 #EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" tvg-logo="http://域名/logo/cn/difang/hdjiangsu.png" group-title="iTV",江苏卫视 4K
 http://192.168.100.133:5888/udp/239.111.205.64:5140
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://域名/logo/cn/cctvwhite/CCTV1.png" group-title="iTV",CCTV-1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="iTV",CCTV-1
 http://192.168.100.133:5888/udp/239.112.205.59:5140
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://域名/logo/cn/cctvwhite/CCTV2.png" group-title="iTV",CCTV-2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="iTV",CCTV-2
 http://192.168.100.133:5888/udp/239.112.205.78:5140
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://域名/logo/cn/cctvwhite/CCTV3.png" group-title="iTV",CCTV-3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="iTV",CCTV-3
 http://192.168.100.133:5888/udp/239.112.205.221:5140
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://域名/logo/cn/cctvwhite/CCTV4.png" group-title="iTV",CCTV-4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="iTV",CCTV-4
 http://192.168.100.133:5888/udp/239.112.205.202:5140
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://域名/logo/cn/cctvwhite/CCTV5.png" group-title="iTV",CCTV-5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="iTV",CCTV-5
 http://192.168.100.133:5888/udp/239.112.205.222:5140
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://域名/logo/cn/cctvwhite/CCTV5plus.png" group-title="iTV",CCTV-5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5plus.png" group-title="iTV",CCTV-5+
 http://192.168.100.133:5888/udp/239.111.205.13:5140
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://域名/logo/cn/cctvwhite/CCTV6.png" group-title="iTV",CCTV-6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="iTV",CCTV-6
 http://192.168.100.133:5888/udp/239.112.205.223:5140
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://域名/logo/cn/cctvwhite/CCTV7.png" group-title="iTV",CCTV-7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="iTV",CCTV-7
 http://192.168.100.133:5888/udp/239.112.205.83:5140
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://域名/logo/cn/cctvwhite/CCTV8.png" group-title="iTV",CCTV-8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV8.png" group-title="iTV",CCTV-8
 http://192.168.100.133:5888/udp/239.112.205.224:5140
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://域名/logo/cn/cctvwhite/CCTV9.png" group-title="iTV",CCTV-9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="iTV",CCTV-9
 http://192.168.100.133:5888/udp/239.112.205.85:5140
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://域名/logo/cn/cctvwhite/CCTV10.png" group-title="iTV",CCTV-10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="iTV",CCTV-10
 http://192.168.100.133:5888/udp/239.112.205.86:5140
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://域名/logo/cn/cctvwhite/CCTV11.png" group-title="iTV",CCTV-11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV11.png" group-title="iTV",CCTV-11
 http://192.168.100.133:5888/udp/239.112.205.213:5140
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://域名/logo/cn/cctvwhite/CCTV12.png" group-title="iTV",CCTV-12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="iTV",CCTV-12
 http://192.168.100.133:5888/udp/239.112.205.88:5140
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://域名/logo/cn/cctvwhite/CCTV13.png" group-title="iTV",CCTV-13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="iTV",CCTV-13
 http://192.168.100.133:5888/udp/239.111.205.53:5140
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://域名/logo/cn/cctvwhite/CCTV14.png" group-title="iTV",CCTV-14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV14.png" group-title="iTV",CCTV-14
 http://192.168.100.133:5888/udp/239.112.205.91:5140
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://域名/logo/cn/cctvwhite/CCTV15.png" group-title="iTV",CCTV-15
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="iTV",CCTV-15
 http://192.168.100.133:5888/udp/239.112.205.214:5140
 
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://域名/logo/cn/cctvwhite/CCTV17.png" group-title="iTV",CCTV-17
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="iTV",CCTV-17
 http://192.168.100.133:5888/udp/239.112.205.211:5140
-#EXTINF:-1 tvg-id="19" tvg-name="CCTV4欧洲" tvg-logo="http://域名/logo/cn/cctvwhite/CCTV4Europe.png" group-title="iTV",CCTV-4 Europe
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV4欧洲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4Europe.png" group-title="iTV",CCTV-4 Europe
 http://192.168.100.133:5888/udp/239.111.205.83:5140
-#EXTINF:-1 tvg-id="20" tvg-name="CCTV4美洲" tvg-logo="http://域名/logo/cn/cctvwhite/CCTV4American.png" group-title="iTV",CCTV-4 America
+#EXTINF:-1 tvg-id="20" tvg-name="CCTV4美洲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4American.png" group-title="iTV",CCTV-4 America
 http://192.168.100.133:5888/udp/239.111.205.84:5140
 #EXTINF:-1 tvg-id="21" tvg-name="CGTN西语" tvg-logo="http://域名/logo/cn/cgtn/cgtnxibanya.png" group-title="iTV",CGTN Español
 http://192.168.100.133:5888/udp/239.111.205.33:5140
@@ -153,8 +154,7 @@ http://192.168.100.133:5888/udp/239.112.205.26:5140
 http://192.168.100.133:5888/udp/239.111.205.55:5140
 #EXTINF:-1 tvg-id="169" tvg-name="金鹰纪实" tvg-logo="http://域名/logo/cn/difang/hdjinyingjishi.png" group-title="iTV" ,金鹰纪实
 http://192.168.100.133:5888/udp/239.112.205.203:5140
-#EXTINF:-1 tvg-id="242" tvg-name="爱上4K" tvg-logo="http://域名/logo/cn/ott/aishang4k.png" group-title="iTV",爱上4K
-http://192.168.100.133:5888/udp/239.112.205.186:5140
+
 #EXTINF:-1 tvg-id="181" tvg-name="CHC家庭电影" tvg-logo="http://域名/logo/cn/cbn/chcjiatingyingyuan.png" group-title="iTV",CHC-家庭影院
 http://192.168.100.133:5888/udp/239.112.205.25:5140
 #EXTINF:-1 tvg-id="182" tvg-name="CHC高清电影" tvg-logo="http://域名/logo/cn/cbn/chcgaoqingdianying.png" group-title="iTV",CHC-影迷电影

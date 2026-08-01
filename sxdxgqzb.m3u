@@ -1,0 +1,193 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4K.png" group-title="iTV",CCTV-4K
+rtp://239.111.205.38:5140
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="iTV",CCTV-16 4K
+rtp://239.111.205.134:5140
+
+#EXTINF:-1 tvg-id="17" tvg-name="华数" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/huashu.png" group-title="iTV",华数 4K
+rtp://239.112.205.186:5140
+#EXTINF:-1 tvg-id="242" tvg-name="爱上4K" tvg-logo="http://域名/logo/cn/ott/aishang4k.png" group-title="iTV",爱上4K
+rtp://239.112.205.186:5140
+http://192.168.100.133:5888/rtp/239.109.205.53:8360
+#EXTINF:-1 tvg-id="17" tvg-name="多彩文体" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/多彩文体.png" group-title="iTV",多彩文体 4K
+rtp://239.109.205.51:8344
+rtp://239.112.205.236:5140
+
+#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="http://域名/logo/cn/difang/hdsichuan.png" group-title="iTV",四川卫视 4K
+rtp://239.111.205.62:5140
+#EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="http://域名/logo/cn/difang/hddongfang.png" group-title="iTV",东方卫视 4K
+rtp://239.111.205.67:5140
+#EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" tvg-logo="http://域名/logo/cn/difang/hdhunan.png" group-title="iTV",湖南卫视 4K
+rtp://239.111.205.63:5140
+#EXTINF:-1 tvg-id="82" tvg-name="广东卫视" tvg-logo="http://域名/logo/cn/difang/hdguangdong.png" group-title="iTV",广东卫视 4K
+rtp://239.111.205.103:5140
+rtp://239.110.205.36:9850
+#EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" tvg-logo="http://域名/logo/cn/difang/hdshenzhen.png" group-title="iTV",深圳卫视 4K
+rtp://239.111.205.104:5140
+#EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" tvg-logo="http://域名/logo/cn/difang/hdzhejiang.png" group-title="iTV",浙江卫视 4K
+rtp://239.111.205.65:5140
+#EXTINF:-1 tvg-id="89" tvg-name="山东卫视" tvg-logo="http://域名/logo/cn/difang/hdshandong.png" group-title="iTV",山东卫视 4K
+rtp://239.111.205.66:5140
+#EXTINF:-1 tvg-id="90" tvg-name="北京卫视" tvg-logo="http://域名/logo/cn/difang/hdbeijing.png" group-title="iTV",北京卫视 4K
+rtp://239.111.205.51:5140
+#EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" tvg-logo="http://域名/logo/cn/difang/hdjiangsu.png" group-title="iTV",江苏卫视 4K
+rtp://239.111.205.64:5140
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="iTV",CCTV-1
+rtp://239.112.205.59:5140
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="iTV",CCTV-2
+rtp://239.112.205.78:5140
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="iTV",CCTV-3
+rtp://239.112.205.221:5140
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="iTV",CCTV-4
+rtp://239.112.205.202:5140
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="iTV",CCTV-5
+rtp://239.112.205.222:5140
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5plus.png" group-title="iTV",CCTV-5+
+rtp://239.111.205.13:5140
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="iTV",CCTV-6
+rtp://239.112.205.223:5140
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="iTV",CCTV-7
+rtp://239.112.205.83:5140
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV8.png" group-title="iTV",CCTV-8
+rtp://239.112.205.224:5140
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="iTV",CCTV-9
+rtp://239.112.205.85:5140
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="iTV",CCTV-10
+rtp://239.112.205.86:5140
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV11.png" group-title="iTV",CCTV-11
+rtp://239.112.205.213:5140
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="iTV",CCTV-12
+rtp://239.112.205.88:5140
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="iTV",CCTV-13
+rtp://239.111.205.53:5140
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV14.png" group-title="iTV",CCTV-14
+rtp://239.112.205.91:5140
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="iTV",CCTV-15
+rtp://239.112.205.214:5140
+
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="iTV",CCTV-17
+rtp://239.112.205.211:5140
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV4欧洲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4Europe.png" group-title="iTV",CCTV-4 Europe
+rtp://239.111.205.83:5140
+#EXTINF:-1 tvg-id="20" tvg-name="CCTV4美洲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4American.png" group-title="iTV",CCTV-4 America
+rtp://239.111.205.84:5140
+#EXTINF:-1 tvg-id="21" tvg-name="CGTN西语" tvg-logo="http://域名/logo/cn/cgtn/cgtnxibanya.png" group-title="iTV",CGTN Español
+rtp://239.111.205.33:5140
+#EXTINF:-1 tvg-id="22" tvg-name="CGTN法语" tvg-logo="http://域名/logo/cn/cgtn/cgtnfaguo.png" group-title="iTV",CGTN Français
+rtp://239.111.205.34:5140
+#EXTINF:-1 tvg-id="23" tvg-name="CGTN俄语" tvg-logo="http://域名/logo/cn/cgtn/cgtneluosi.png" group-title="iTV",CGTN Русский
+rtp://239.111.205.87:5140
+#EXTINF:-1 tvg-id="24" tvg-name="CGTN阿语" tvg-logo="http://域名/logo/cn/cgtn/cgtnalabo.png" group-title="iTV",CGTN العربية
+rtp://239.111.205.86:5140
+#EXTINF:-1 tvg-id="25" tvg-name="CGTN" tvg-logo="http://域名/logo/cn/cgtn/cgtn.png" group-title="iTV",CGTN
+rtp://239.111.205.32:5140
+
+#EXTINF:-1 tvg-id="29" tvg-name="CGTN纪录" tvg-logo="http://域名/logo/cn/cgtn/cgtnjilu.png" group-title="iTV",CGTN Documentary
+rtp://239.111.205.85:5140
+#EXTINF:-1 tvg-id="77" tvg-name="重庆卫视" tvg-logo="http://域名/logo/cn/difang/hdchongqing.png" group-title="iTV",重庆卫视
+rtp://239.112.205.179:5140
+#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="http://域名/logo/cn/difang/hdsichuan.png" group-title="iTV",四川卫视
+rtp://239.112.205.184:5140
+#EXTINF:-1 tvg-id="79" tvg-name="贵州卫视" tvg-logo="http://域名/logo/cn/difang/hdguizhou.png" group-title="iTV",贵州卫视
+rtp://239.112.205.178:5140
+#EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="http://域名/logo/cn/difang/hddongfang.png" group-title="iTV",东方卫视
+rtp://239.112.205.61:5140
+#EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" tvg-logo="http://域名/logo/cn/difang/hdhunan.png" group-title="iTV",湖南卫视
+rtp://239.112.205.62:5140
+#EXTINF:-1 tvg-id="82" tvg-name="广东卫视" tvg-logo="http://域名/logo/cn/difang/hdguangdong.png" group-title="iTV",广东卫视
+rtp://239.112.205.66:5140
+#EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" tvg-logo="http://域名/logo/cn/difang/hdshenzhen.png" group-title="iTV",深圳卫视
+rtp://239.112.205.67:5140
+#EXTINF:-1 tvg-id="84" tvg-name="天津卫视" tvg-logo="http://域名/logo/cn/difang/hdtianjin.png" group-title="iTV",天津卫视
+rtp://239.112.205.74:5140
+#EXTINF:-1 tvg-id="85" tvg-name="湖北卫视" tvg-logo="http://域名/logo/cn/difang/hdhubei.png" group-title="iTV",湖北卫视
+rtp://239.112.205.69:5140
+#EXTINF:-1 tvg-id="86" tvg-name="辽宁卫视" tvg-logo="http://域名/logo/cn/difang/hdliaoning.png" group-title="iTV",辽宁卫视
+rtp://239.112.205.73:5140
+#EXTINF:-1 tvg-id="87" tvg-name="安徽卫视" tvg-logo="http://域名/logo/cn/difang/hdanhui.png" group-title="iTV",安徽卫视
+rtp://239.112.205.72:5140
+#EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" tvg-logo="http://域名/logo/cn/difang/hdzhejiang.png" group-title="iTV",浙江卫视
+rtp://239.112.205.64:5140
+#EXTINF:-1 tvg-id="89" tvg-name="山东卫视" tvg-logo="http://域名/logo/cn/difang/hdshandong.png" group-title="iTV",山东卫视
+rtp://239.112.205.70:5140
+#EXTINF:-1 tvg-id="90" tvg-name="北京卫视" tvg-logo="http://域名/logo/cn/difang/hdbeijing.png" group-title="iTV",北京卫视
+rtp://239.112.205.65:5140
+#EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" tvg-logo="http://域名/logo/cn/difang/hdjiangsu.png" group-title="iTV",江苏卫视
+rtp://239.112.205.63:5140
+#EXTINF:-1 tvg-id="92" tvg-name="黑龙江卫视" tvg-logo="http://域名/logo/cn/difang/hdheilongjiang.png" group-title="iTV",黑龙江卫视
+rtp://239.112.205.68:5140
+#EXTINF:-1 tvg-id="93" tvg-name="河北卫视" tvg-logo="http://域名/logo/cn/difang/hdhebei.png" group-title="iTV",河北卫视
+rtp://239.112.205.200:5140
+#EXTINF:-1 tvg-id="94" tvg-name="云南卫视" tvg-logo="http://域名/logo/cn/difang/hdyunnan.png" group-title="iTV",云南卫视
+rtp://239.111.205.106:5140
+#EXTINF:-1 tvg-id="95" tvg-name="江西卫视" tvg-logo="http://域名/logo/cn/difang/hdjiangxi.png" group-title="iTV",江西卫视
+rtp://239.111.205.16:5140
+#EXTINF:-1 tvg-id="96" tvg-name="东南卫视" tvg-logo="http://域名/logo/cn/difang/hddongnan.png" group-title="iTV",东南卫视
+rtp://239.112.205.182:5140
+#EXTINF:-1 tvg-id="98" tvg-name="吉林卫视" tvg-logo="http://域名/logo/cn/difang/hdjilin.png" group-title="iTV",吉林卫视
+rtp://239.112.205.183:5140
+#EXTINF:-1 tvg-id="99" tvg-name="甘肃卫视" tvg-logo="http://域名/logo/cn/difang/hdgansu.png" group-title="iTV",甘肃卫视
+rtp://239.111.205.88:5140
+#EXTINF:-1 tvg-id="100" tvg-name="河南卫视" tvg-logo="http://域名/logo/cn/difang/hdhenan.png" group-title="iTV",河南卫视
+rtp://239.112.205.180:5140
+#EXTINF:-1 tvg-id="102" tvg-name="陕西卫视" tvg-logo="http://域名/logo/cn/difang/hdshaanxi.png" group-title="iTV",陕西卫视
+rtp://239.111.205.35:5140
+#EXTINF:-1 tvg-id="103" tvg-name="广西卫视" tvg-logo="http://域名/logo/cn/difang/hdguangxi.png" group-title="iTV",广西卫视
+rtp://239.111.205.14:5140
+#EXTINF:-1 tvg-id="104" tvg-name="青海卫视" tvg-logo="http://域名/logo/cn/difang/hdqinghai.png" group-title="iTV",青海卫视
+rtp://239.111.205.105:5140
+#EXTINF:-1 tvg-id="105" tvg-name="新疆卫视" tvg-logo="http://域名/logo/cn/difang/hdxinjiang.png" group-title="iTV",新疆卫视
+rtp://239.111.205.59:5140
+#EXTINF:-1 tvg-id="106" tvg-name="西藏卫视" tvg-logo="http://域名/logo/cn/difang/hdxizang.png" group-title="iTV",西藏卫视
+rtp://239.111.205.58:5140
+#EXTINF:-1 tvg-id="108" tvg-name="宁夏卫视" tvg-logo="http://域名/logo/cn/difang/hdningxia.png" group-title="iTV",宁夏卫视
+rtp://239.111.205.61:5140
+#EXTINF:-1 tvg-id="109" tvg-name="山西卫视" tvg-logo="http://域名/logo/cn/difang/hdshanxi.png" group-title="iTV",山西卫视
+rtp://239.111.205.39:5140
+#EXTINF:-1 tvg-id="110" tvg-name="兵团卫视" tvg-logo="http://域名/logo/cn/difang/hdbingtuan.png" group-title="iTV",兵团卫视
+rtp://239.111.205.60:5140
+#EXTINF:-1 tvg-id="261" tvg-name="农林卫视" tvg-logo="http://域名/logo/cn/difang/hdnonglin.png" group-title="iTV",农林卫视
+rtp://239.112.205.26:5140
+
+#EXTINF:-1 tvg-id="136" tvg-name="北京纪实科教" tvg-logo="http://域名/logo/cn/difang/jishikejiao.png" group-title="iTV",纪实科教
+rtp://239.111.205.55:5140
+#EXTINF:-1 tvg-id="169" tvg-name="金鹰纪实" tvg-logo="http://域名/logo/cn/difang/hdjinyingjishi.png" group-title="iTV" ,金鹰纪实
+rtp://239.112.205.203:5140
+
+#EXTINF:-1 tvg-id="181" tvg-name="CHC家庭电影" tvg-logo="http://域名/logo/cn/cbn/chcjiatingyingyuan.png" group-title="iTV",CHC-家庭影院
+rtp://239.112.205.25:5140
+#EXTINF:-1 tvg-id="182" tvg-name="CHC高清电影" tvg-logo="http://域名/logo/cn/cbn/chcgaoqingdianying.png" group-title="iTV",CHC-影迷电影
+rtp://239.112.205.23:5140
+#EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="http://域名/logo/cn/cbn/chcdongzuodianying.png" group-title="iTV",CHC-动作影院
+rtp://239.110.205.38:9858
+#EXTINF:-1 tvg-id="138" tvg-name="第一剧场" tvg-logo="http://域名/logo/cn/cctv/sdcctvdiyijuchang.png" group-title="iTV",CCTV-第一剧场
+rtp://239.111.205.118:5140
+#EXTINF:-1 tvg-id="139" tvg-name="风云剧场" tvg-logo="http://域名/logo/cn/cctv/sdcctvfengyunjuchang.png" group-title="iTV",CCTV-风云剧场
+rtp://239.111.205.113:5140
+#EXTINF:-1 tvg-id="140" tvg-name="怀旧剧场" tvg-logo="http://域名/logo/cn/cctv/sdcctvhuaijiujuchang.png" group-title="iTV",CCTV-怀旧剧场
+rtp://239.111.205.112:5140
+#EXTINF:-1 tvg-id="144" tvg-name="风云足球" tvg-logo="http://域名/logo/cn/cctv/sdcctvfengyunzuqiu.png" group-title="iTV",CCTV-风云足球
+rtp://239.111.205.120:5140
+#EXTINF:-1 tvg-id="142" tvg-name="风云音乐" tvg-logo="http://域名/logo/cn/cctv/sdcctvfengyunyinyue.png" group-title="iTV",CCTV-风云音乐
+rtp://239.111.205.115:5140
+#EXTINF:-1 tvg-id="148" tvg-name="央视台球" tvg-logo="http://域名/logo/cn/cctv/sdcctvyangshitaiqiu.png" group-title="iTV",CCTV-央视台球
+rtp://239.111.205.116:5140
+#EXTINF:-1 tvg-id="141" tvg-name="世界地理" tvg-logo="http://域名/logo/cn/cctv/sdcctvshijiedili.png" group-title="iTV",CCTV-世界地理
+rtp://239.111.205.111:5140
+#EXTINF:-1 tvg-id="146" tvg-name="女性时尚" tvg-logo="http://域名/logo/cn/cctv/sdcctvnvxingshishang.png" group-title="iTV",CCTV-女性时尚
+rtp://239.111.205.110:5140
+#EXTINF:-1 tvg-id="145" tvg-name="高尔夫网球" tvg-logo="http://域名/logo/cn/cctv/sdcctvgaoerfuwangqiu.png" group-title="iTV",CCTV-高尔夫·网球
+rtp://239.111.205.117:5140
+#EXTINF:-1 tvg-id="143" tvg-name="兵器科技" tvg-logo="http://域名/logo/cn/cctv/sdcctvbingqikeji.png" group-title="iTV",CCTV-兵器科技
+rtp://239.111.205.114:5140
+#EXTINF:-1 tvg-id="147" tvg-name="文化精品" tvg-logo="http://域名/logo/cn/cctv/sdcctvyangshiwenhuajingpin.png" group-title="iTV",CCTV-央视文化精品
+rtp://239.111.205.119:5140
+#EXTINF:-1 tvg-id="436" tvg-name="电视指南" tvg-logo="http://域名/logo/cn/cctv/sdcctvyangshiwenhuajingpin.png" group-title="iTV",CCTV-电视指南
+rtp://239.111.205.121:5140
+#EXTINF:-1 tvg-id="435" tvg-name="卫生健康" tvg-logo="http://域名/logo/cn/cctv/sdcctvweishengjiankang.png" group-title="iTV",CCTV-卫生健康
+rtp://239.111.205.109:5140
+#EXTINF:-1 tvg-id="225"tvg-name="早期教育" tvg-logo="http://域名/logo/cn/cctv/sdcctvzaoqijiaoyu.png" group-title="iTV",CETV-早期教育
+rtp://239.111.205.108:5140
+#EXTINF:-1 tvg-id="225" tvg-name="中国天气" tvg-logo="https://pic.erw.cc/epglogo/shuzi/zgtq.png" group-title="iTV",中国天气
+rtp://239.111.205.122:5140

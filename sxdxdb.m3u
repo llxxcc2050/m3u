@@ -1,9 +1,18 @@
 #EXTM3U
+#EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="香港",凤凰卫视-资讯台
+http://192.168.100.133:5888/udp/239.110.205.114:7820
+http://192.168.100.133:5888/udp/239.111.205.82:5140
+#EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="香港",凤凰卫视-中文台
+http://192.168.100.133:5888/udp/239.110.205.103:7864
+http://192.168.100.133:5888/udp/239.111.205.78:5140
+
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
+http://192.168.100.133:5888/udp/239.111.205.40:5140
 http://192.168.100.133:5888/udp/239.109.205.192:9608
 http://192.168.100.133:5888/udp/239.111.205.38:5140
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16 4K
 http://192.168.100.133:5888/udp/239.111.205.134:5140
+http://192.168.100.133:5888/udp/239.110.205.98:7884
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="其他",爱上4K
 http://192.168.100.133:5888/udp/239.112.205.186:5140
 http://192.168.100.133:5888/rtp/239.109.205.53:8360
@@ -188,3 +197,18 @@ http://192.168.100.133:5888/udp/239.111.205.109:5140
 http://192.168.100.133:5888/udp/239.111.205.108:5140
 #EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="其他",中国天气
 http://192.168.100.133:5888/udp/239.111.205.122:5140
+
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://live.fanmingming.cn/tv/陕西新闻资讯.png" group-title="地方频道" ,陕西新闻资讯
+http://192.168.100.133:5888/udp/239.111.205.28:5140
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://live.fanmingming.cn/tv/陕西都市青春.png" group-title="地方频道" ,陕西都市青春
+http://192.168.100.133:5888/udp/239.111.205.42:5140
+#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="http://live.pic.gitv.tv/images/20250103/63/63abd513193306d4657d5693f7249f3c.png" group-title="地方频道" ,陕西银龄
+http://192.168.100.133:5888/udp/239.111.205.98:5140
+#EXTINF:-1 tvg-name="陕西秦腔" tvg-logo="http://live.pic.gitv.tv/images/20250114/9d/9d9053f91179d8221cd2430ea8df1996.png" group-title="地方频道" ,陕西秦腔
+http://192.168.100.133:5888/udp/239.111.205.100:5140
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://live.fanmingming.cn/tv/陕西体育休闲.png" group-title="地方频道" ,陕西体育休闲
+http://192.168.100.133:5888/udp/239.111.205.36:5140
+#EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://live.fanmingming.cn/tv/陕西西部电影.png" group-title="地方频道" ,陕西西部电影
+http://192.168.100.133:5888/udp/239.111.205.102:5140
+#EXTINF:-1 tvg-name="西安新闻综合" tvg-logo="https://live.fanmingming.cn/tv/西安新闻综合.png" group-title="地方频道" ,西安新闻综合
+http://192.168.100.133:5888/udp/239.111.205.27:5140

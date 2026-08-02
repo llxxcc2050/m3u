@@ -151,13 +151,18 @@ http://192.168.100.133:5888/udp/239.112.205.26:5140
 
 #EXTINF:-1 tvg-id="136" tvg-name="北京纪实科教" tvg-logo="http://域名/logo/cn/difang/jishikejiao.png" group-title="iTV",纪实科教
 http://192.168.100.133:5888/udp/239.111.205.55:5140
+http://192.168.100.133:5888/udp/239.110.205.77:7784
 #EXTINF:-1 tvg-id="169" tvg-name="金鹰纪实" tvg-logo="http://域名/logo/cn/difang/hdjinyingjishi.png" group-title="iTV" ,金鹰纪实
 http://192.168.100.133:5888/udp/239.112.205.203:5140
+#EXTINF:-1 tvg-id="169" tvg-name="泾阳电视台" tvg-logo="http://域名/logo/cn/difang/jingyang.png" group-title="iTV" ,泾阳电视台
+http://192.168.100.133:5888/udp/239.110.205.123:7780
 
 #EXTINF:-1 tvg-id="181" tvg-name="CHC家庭电影" tvg-logo="http://域名/logo/cn/cbn/chcjiatingyingyuan.png" group-title="iTV",CHC-家庭影院
 http://192.168.100.133:5888/udp/239.112.205.25:5140
+http://192.168.100.133:5888/udp/239.109.205.216:9702
 #EXTINF:-1 tvg-id="182" tvg-name="CHC高清电影" tvg-logo="http://域名/logo/cn/cbn/chcgaoqingdianying.png" group-title="iTV",CHC-影迷电影
 http://192.168.100.133:5888/udp/239.112.205.23:5140
+http://192.168.100.133:5888/udp/239.109.205.7:9160
 #EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="http://域名/logo/cn/cbn/chcdongzuodianying.png" group-title="iTV",CHC-动作影院
 http://192.168.100.133:5888/udp/239.110.205.38:9858
 #EXTINF:-1 tvg-id="138" tvg-name="第一剧场" tvg-logo="http://域名/logo/cn/cctv/sdcctvdiyijuchang.png" group-title="iTV",CCTV-第一剧场

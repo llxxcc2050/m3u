@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4K.png" group-title="iTV",CCTV-4K
+http://192.168.100.133:5888/udp/239.109.205.192:9608
 http://192.168.100.133:5888/udp/239.111.205.38:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="iTV",CCTV-16 4K
 http://192.168.100.133:5888/udp/239.111.205.134:5140

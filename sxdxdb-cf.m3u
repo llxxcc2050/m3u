@@ -1,11 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4K.png" group-title="iTV",CCTV-4K
+https://iptv.566.indevs.in/udp/239.109.205.192:9608
 https://iptv.566.indevs.in/udp/239.111.205.38:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="iTV",CCTV-16 4K
 https://iptv.566.indevs.in/udp/239.111.205.134:5140
 
-#EXTINF:-1 tvg-id="17" tvg-name="华数" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/huashu.png" group-title="iTV",华数 4K
-https://iptv.566.indevs.in/udp/239.112.205.186:5140
 #EXTINF:-1 tvg-id="242" tvg-name="爱上4K" tvg-logo="http://域名/logo/cn/ott/aishang4k.png" group-title="iTV",爱上4K
 https://iptv.566.indevs.in/udp/239.112.205.186:5140
 https://iptv.566.indevs.in/rtp/239.109.205.53:8360

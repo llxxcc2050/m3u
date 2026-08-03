@@ -70,6 +70,8 @@ https://iptv.566.indevs.in/udp/239.111.205.53:5140
 https://iptv.566.indevs.in/udp/239.112.205.91:5140
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15
 https://iptv.566.indevs.in/udp/239.112.205.214:5140
+#EXTINF:-1 tvg-id="CCTV16HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16HD.png" group-title="央视",CCTV16
+https://iptv.566.indevs.in/rtp/239.111.205.133:5140
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17
 https://iptv.566.indevs.in/udp/239.112.205.211:5140
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4 Europe

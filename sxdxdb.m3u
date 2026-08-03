@@ -50,7 +50,6 @@ http://192.168.100.133:5888/rtp/239.109.205.51:8344
 http://192.168.100.133:5888/rtp/239.112.205.236:5140
 #EXTINF:-1 tvg-id="金鹰纪实HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9EHD.png" group-title="陕西电信",金鹰纪实HD
 http://192.168.100.133:5888/rtp/239.109.205.59:8408
-#EXTINF:-1 tvg-id="金鹰纪实HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9EHD.png" group-title="陕西电信",金鹰纪实HD
 http://192.168.100.133:5888/rtp/239.112.205.203:5140
 #EXTINF:-1 tvg-id="环球奇观HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%8E%AF%E7%90%83%E5%A5%87%E8%A7%82HD.png" group-title="陕西电信",环球奇观HD
 http://192.168.100.133:5888/rtp/239.110.205.86:7932

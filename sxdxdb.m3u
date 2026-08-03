@@ -16,9 +16,6 @@ http://192.168.100.133:5888/udp/239.110.205.98:7884
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K UHD",爱上4K
 http://192.168.100.133:5888/udp/239.112.205.186:5140
 http://192.168.100.133:5888/rtp/239.109.205.53:8360
-#EXTINF:-1,tvg-id="多彩文体 4K" tvg-name="多彩文体 4K" tvg-logo="https://epg.112114.xyz/logo/多彩文体4K.png" group-title="其他",多彩文体 4K
-http://192.168.100.133:5888/udp/239.109.205.51:8344
-http://192.168.100.133:5888/udp/239.112.205.236:5140
 #EXTINF:-1,tvg-id="四川卫视4K" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="4K UHD",四川卫视 4K
 http://192.168.100.133:5888/rtp/239.110.205.90:7916
 http://192.168.100.133:5888/udp/239.111.205.62:5140

@@ -151,9 +151,6 @@ http://192.168.100.133:5888/rtp/239.112.205.189:5140
 #EXTINF:-1 tvg-id="宝鸡综合HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%9D%E9%B8%A1%E7%BB%BC%E5%90%88HD.png" group-title="陕西电信",宝鸡综合HD
 http://192.168.100.133:5888/rtp/239.112.205.143:5140
 http://192.168.100.133:5888/rtp/239.112.205.147:5140
-#EXTINF:-1 tvg-id="宝鸡公共HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%9D%E9%B8%A1%E5%85%AC%E5%85%B1HD.png" group-title="陕西电信",宝鸡公共HD
-http://192.168.100.133:5888/rtp/239.112.205.144:5140
-http://192.168.100.133:5888/rtp/239.112.205.148:5140
 #EXTINF:-1 tvg-id="宝鸡千阳HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%9D%E9%B8%A1%E5%8D%83%E9%98%B3HD.png" group-title="陕西电信",宝鸡千阳HD
 http://192.168.100.133:5888/rtp/239.111.205.250:5140
 #EXTINF:-1 tvg-id="宝鸡太白HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%9D%E9%B8%A1%E5%A4%AA%E7%99%BDHD.png" group-title="陕西电信",宝鸡太白HD

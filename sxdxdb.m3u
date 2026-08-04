@@ -221,8 +221,6 @@ http://192.168.100.133:5888/rtp/239.110.205.79:7960
 http://192.168.100.133:5888/rtp/239.111.205.34:5140
 http://192.168.100.133:5888/rtp/239.110.205.80:7956
 
-#EXTINF:-1 tvg-id="中国交通HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9AHD.png" group-title="陕西电信",中国交通HD
-http://192.168.100.133:5888/rtp/239.111.205.54:5140
 #EXTINF:-1 tvg-id="重庆卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",重庆卫视HD
 http://192.168.100.133:5888/rtp/239.112.205.179:5140
 http://192.168.100.133:5888/rtp/239.109.205.70:8496

@@ -330,7 +330,6 @@ http://192.168.100.133:5888/rtp/239.112.205.234:5140
 http://192.168.100.133:5888/rtp/239.110.205.16:9810
 #EXTINF:-1 tvg-id="足球HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B6%B3%E7%90%83HD.png" group-title="陕西电信",足球HD
 http://192.168.100.133:5888/rtp/239.110.205.25:9846
-#EXTINF:-1 tvg-id="足球HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B6%B3%E7%90%83HD.png" group-title="陕西电信",足球HD
 http://192.168.100.133:5888/rtp/239.112.205.127:5140
 #EXTINF:-1 tvg-id="FXTVHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FXTVHD.png" group-title="陕西电信",FXTVHD
 http://192.168.100.133:5888/rtp/239.111.205.244:5140
@@ -342,9 +341,8 @@ http://192.168.100.133:5888/rtp/239.112.205.118:5140
 http://192.168.100.133:5888/rtp/239.112.205.119:5140
 #EXTINF:-1 tvg-id="农林卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",农林卫视HD
 http://192.168.100.133:5888/rtp/239.110.205.88:7924
-#EXTINF:-1 tvg-id="农林卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",农林卫视HD
 http://192.168.100.133:5888/rtp/239.112.205.26:5140
 #EXTINF:-1 tvg-id="电影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%B5%E5%BD%B1HD.png" group-title="陕西电信",电影HD
 http://192.168.100.133:5888/rtp/239.112.205.90:5140
-#EXTINF:-1 tvg-id="足球频道HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B6%B3%E7%90%83%E9%A2%91%E9%81%93HD.png" group-title="陕西电信",足球频道HD
+#EXTINF:-1 tvg-id="足球频道HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B6%B3%E7%90%83%E9%A2%91%E9%81%93HD.png" group-title="陕西电信",电视指南HD
 http://192.168.100.133:5888/rtp/239.110.205.89:7920

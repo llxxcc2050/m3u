@@ -131,13 +131,9 @@ http://192.168.100.133:5888/rtp/239.111.205.98:5140
 #EXTINF:-1 tvg-id="陕西体育休闲HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2HD.png" group-title="陕西电信",陕西体育休闲HD
 http://192.168.100.133:5888/rtp/239.110.205.85:7936
 http://192.168.100.133:5888/rtp/239.111.205.36:5140
-#EXTINF:-1 tvg-id="陕西乐购购物HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E4%B9%90%E8%B4%AD%E8%B4%AD%E7%89%A9HD.png" group-title="陕西电信",陕西乐购购物HD
-http://192.168.100.133:5888/rtp/239.111.205.101:5140
 #EXTINF:-1 tvg-id="西安综合HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E5%AE%89%E7%BB%BC%E5%90%88HD.png" group-title="陕西电信",西安综合HD
 http://192.168.100.133:5888/rtp/239.110.205.31:9788
 http://192.168.100.133:5888/rtp/239.111.205.27:5140
-#EXTINF:-1 tvg-id="西安乐购购物HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E5%AE%89%E4%B9%90%E8%B4%AD%E8%B4%AD%E7%89%A9HD.png" group-title="陕西电信",西安乐购购物HD
-http://192.168.100.133:5888/rtp/239.111.205.30:5140
 #EXTINF:-1 tvg-id="渭南综合HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%AD%E5%8D%97%E7%BB%BC%E5%90%88HD.png" group-title="陕西电信",渭南综合HD
 http://192.168.100.133:5888/rtp/239.110.205.37:9854
 http://192.168.100.133:5888/rtp/239.111.205.19:5140

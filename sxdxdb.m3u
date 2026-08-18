@@ -65,8 +65,8 @@ http://192.168.100.133:5888/rtp/239.109.205.222:9726
 http://192.168.100.133:5888/rtp/239.112.205.78:5140
 http://192.168.100.133:5888/rtp/239.109.205.106:8784
 #EXTINF:-1 tvg-id="CCTV3HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3HD.png" group-title="陕西电信",CCTV3HD
-http://192.168.100.133:5888/rtp/239.109.205.79:8568
 http://192.168.100.133:5888/rtp/239.112.205.221:5140
+http://192.168.100.133:5888/rtp/239.109.205.79:8568
 #EXTINF:-1 tvg-id="CCTV4HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4HD.png" group-title="陕西电信",CCTV4HD
 http://192.168.100.133:5888/rtp/239.112.205.202:5140
 http://192.168.100.133:5888/rtp/239.109.205.159:9108
@@ -75,39 +75,38 @@ http://192.168.100.133:5888/rtp/239.111.205.83:5140
 #EXTINF:-1 tvg-id="CCTV4美洲HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4%E7%BE%8E%E6%B4%B2HD.png" group-title="陕西电信",CCTV4美洲HD
 http://192.168.100.133:5888/rtp/239.111.205.84:5140
 #EXTINF:-1 tvg-id="CCTV5HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5HD.png" group-title="陕西电信",CCTV5HD
-http://192.168.100.133:5888/rtp/239.111.205.10:5140
-http://192.168.100.133:5888/rtp/239.109.205.214:9208
 http://192.168.100.133:5888/rtp/239.112.205.222:5140
+http://192.168.100.133:5888/rtp/239.109.205.214:9208
 #EXTINF:-1 tvg-id="CCTV5+HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2BHD.png" group-title="陕西电信",CCTV5+HD
 http://192.168.100.133:5888/rtp/239.111.205.13:5140
 #EXTINF:-1 tvg-id="CCTV6HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6HD.png" group-title="陕西电信",CCTV6HD
 http://192.168.100.133:5888/rtp/239.109.205.84:8608
 http://192.168.100.133:5888/rtp/239.112.205.223:5140
 #EXTINF:-1 tvg-id="CCTV7HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7HD.png" group-title="陕西电信",CCTV7HD
+http://192.168.100.133:5888/rtp/239.112.205.83:5140
 http://192.168.100.133:5888/rtp/239.110.205.7:9774
 http://192.168.100.133:5888/rtp/239.109.205.216:9702
-http://192.168.100.133:5888/rtp/239.112.205.83:5140
 #EXTINF:-1 tvg-id="CCTV8HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8HD.png" group-title="陕西电信",CCTV8HD
-http://192.168.100.133:5888/rtp/239.109.205.90:8656
 http://192.168.100.133:5888/rtp/239.112.205.224:5140
+http://192.168.100.133:5888/rtp/239.109.205.90:8656
 #EXTINF:-1 tvg-id="CCTV9HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9HD.png" group-title="陕西电信",CCTV9HD
-http://192.168.100.133:5888/rtp/239.110.205.8:9778
 http://192.168.100.133:5888/rtp/239.112.205.85:5140
+http://192.168.100.133:5888/rtp/239.110.205.8:9778
 #EXTINF:-1 tvg-id="CCTV10HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10HD.png" group-title="陕西电信",CCTV10HD
-http://192.168.100.133:5888/rtp/239.110.205.9:9782
 http://192.168.100.133:5888/rtp/239.112.205.86:5140
+http://192.168.100.133:5888/rtp/239.110.205.9:9782
 #EXTINF:-1 tvg-id="CCTV11HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11HD.png" group-title="陕西电信",CCTV11HD
+http://192.168.100.133:5888/rtp/239.112.205.213:5140
 http://192.168.100.133:5888/rtp/239.111.205.11:5140
 http://192.168.100.133:5888/rtp/239.109.205.102:8752
-http://192.168.100.133:5888/rtp/239.112.205.213:5140
 #EXTINF:-1 tvg-id="CCTV12HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12HD.png" group-title="陕西电信",CCTV12HD
 http://192.168.100.133:5888/rtp/239.112.205.88:5140
 http://192.168.100.133:5888/rtp/239.110.205.10:9786
 #EXTINF:-1 tvg-id="CCTV13HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13HD.png" group-title="陕西电信",CCTV13HD
 http://192.168.100.133:5888/rtp/239.111.205.53:5140
 #EXTINF:-1 tvg-id="CCTV14HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14HD.png" group-title="陕西电信",CCTV14HD
-http://192.168.100.133:5888/rtp/239.110.205.20:9826
 http://192.168.100.133:5888/rtp/239.112.205.91:5140
+http://192.168.100.133:5888/rtp/239.110.205.20:9826
 #EXTINF:-1 tvg-id="CCTV15HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15HD.png" group-title="陕西电信",CCTV15HD
 http://192.168.100.133:5888/rtp/239.112.205.214:5140
 http://192.168.100.133:5888/rtp/239.109.205.103:8760
@@ -117,11 +116,11 @@ http://192.168.100.133:5888/rtp/239.111.205.133:5140
 http://192.168.100.133:5888/rtp/239.112.205.211:5140
 http://192.168.100.133:5888/rtp/239.109.205.88:8640
 #EXTINF:-1 tvg-id="陕西新闻资讯HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AFHD.png" group-title="陕西电信",陕西新闻资讯HD
-http://192.168.100.133:5888/rtp/239.110.205.83:7944
 http://192.168.100.133:5888/rtp/239.111.205.28:5140
+http://192.168.100.133:5888/rtp/239.110.205.83:7944
 #EXTINF:-1 tvg-id="陕西都市HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E9%83%BD%E5%B8%82HD.png" group-title="陕西电信",陕西都市HD
-http://192.168.100.133:5888/rtp/239.110.205.84:7940
 http://192.168.100.133:5888/rtp/239.111.205.42:5140
+http://192.168.100.133:5888/rtp/239.110.205.84:7940
 #EXTINF:-1 tvg-id="陕西秦腔HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E7%A7%A6%E8%85%94HD.png" group-title="陕西电信",陕西秦腔HD
 http://192.168.100.133:5888/rtp/239.111.205.100:5140
 #EXTINF:-1 tvg-id="陕西西部电影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E8%A5%BF%E9%83%A8%E7%94%B5%E5%BD%B1HD.png" group-title="陕西电信",陕西西部电影HD
@@ -129,25 +128,25 @@ http://192.168.100.133:5888/rtp/239.111.205.102:5140
 #EXTINF:-1 tvg-id="陕西银龄HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E9%93%B6%E9%BE%84HD.png" group-title="陕西电信",陕西银龄HD
 http://192.168.100.133:5888/rtp/239.111.205.98:5140
 #EXTINF:-1 tvg-id="陕西体育休闲HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2HD.png" group-title="陕西电信",陕西体育休闲HD
-http://192.168.100.133:5888/rtp/239.110.205.85:7936
 http://192.168.100.133:5888/rtp/239.111.205.36:5140
+http://192.168.100.133:5888/rtp/239.110.205.85:7936
 #EXTINF:-1 tvg-id="西安综合HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E5%AE%89%E7%BB%BC%E5%90%88HD.png" group-title="陕西电信",西安综合HD
-http://192.168.100.133:5888/rtp/239.110.205.31:9788
 http://192.168.100.133:5888/rtp/239.111.205.27:5140
+http://192.168.100.133:5888/rtp/239.110.205.31:9788
 #EXTINF:-1 tvg-id="渭南综合HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%AD%E5%8D%97%E7%BB%BC%E5%90%88HD.png" group-title="陕西电信",渭南综合HD
+http://192.168.100.133:5888/rtp/239.112.205.190:5140
 http://192.168.100.133:5888/rtp/239.110.205.37:9854
 http://192.168.100.133:5888/rtp/239.111.205.19:5140
 http://192.168.100.133:5888/rtp/239.111.205.94:5140
 http://192.168.100.133:5888/rtp/239.109.205.92:8672
-http://192.168.100.133:5888/rtp/239.112.205.190:5140
 #EXTINF:-1 tvg-id="渭南蒲城HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%AD%E5%8D%97%E8%92%B2%E5%9F%8EHD.png" group-title="陕西电信",渭南蒲城HD
 http://192.168.100.133:5888/rtp/239.112.205.194:5140
 #EXTINF:-1 tvg-id="咸阳综合HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%92%B8%E9%98%B3%E7%BB%BC%E5%90%88HD.png" group-title="陕西电信",咸阳综合HD
 http://192.168.100.133:5888/rtp/239.112.205.141:5140
 #EXTINF:-1 tvg-id="商洛综合HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%95%86%E6%B4%9B%E7%BB%BC%E5%90%88HD.png" group-title="陕西电信",商洛综合HD
+http://192.168.100.133:5888/rtp/239.112.205.189:5140
 http://192.168.100.133:5888/rtp/239.109.205.66:8464
 http://192.168.100.133:5888/rtp/239.109.205.69:8488
-http://192.168.100.133:5888/rtp/239.112.205.189:5140
 #EXTINF:-1 tvg-id="宝鸡综合HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%9D%E9%B8%A1%E7%BB%BC%E5%90%88HD.png" group-title="陕西电信",宝鸡综合HD
 http://192.168.100.133:5888/rtp/239.112.205.143:5140
 http://192.168.100.133:5888/rtp/239.112.205.147:5140
@@ -206,8 +205,8 @@ http://192.168.100.133:5888/rtp/239.109.205.78:8560
 http://192.168.100.133:5888/rtp/239.111.205.15:5140
 http://192.168.100.133:5888/rtp/239.109.205.64:8448
 #EXTINF:-1 tvg-id="CGTNHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTNHD.png" group-title="陕西电信",CGTNHD
-http://192.168.100.133:5888/rtp/239.110.205.78:7964
 http://192.168.100.133:5888/rtp/239.111.205.32:5140
+http://192.168.100.133:5888/rtp/239.110.205.78:7964
 #EXTINF:-1 tvg-id="CGTN纪录HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E7%BA%AA%E5%BD%95HD.png" group-title="陕西电信",CGTN纪录HD
 http://192.168.100.133:5888/rtp/239.111.205.85:5140
 #EXTINF:-1 tvg-id="CGTN阿语HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E9%98%BF%E8%AF%ADHD.png" group-title="陕西电信",CGTN阿语HD
@@ -228,8 +227,8 @@ http://192.168.100.133:5888/rtp/239.109.205.70:8496
 http://192.168.100.133:5888/rtp/239.112.205.63:5140
 http://192.168.100.133:5888/rtp/239.109.205.119:8368
 #EXTINF:-1 tvg-id="浙江卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",浙江卫视HD
-http://192.168.100.133:5888/rtp/239.109.205.120:8896
 http://192.168.100.133:5888/rtp/239.112.205.64:5140
+http://192.168.100.133:5888/rtp/239.109.205.120:8896
 #EXTINF:-1 tvg-id="东方卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",东方卫视HD
 http://192.168.100.133:5888/rtp/239.112.205.61:5140
 http://192.168.100.133:5888/rtp/239.109.205.121:8904
@@ -248,8 +247,8 @@ http://192.168.100.133:5888/rtp/239.109.205.191:9606
 http://192.168.100.133:5888/rtp/239.110.205.23:9838
 http://192.168.100.133:5888/rtp/239.112.205.74:5140
 #EXTINF:-1 tvg-id="贵州卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",贵州卫视HD
-http://192.168.100.133:5888/rtp/239.109.205.139:9024
 http://192.168.100.133:5888/rtp/239.112.205.178:5140
+http://192.168.100.133:5888/rtp/239.109.205.139:9024
 #EXTINF:-1 tvg-id="四川卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",四川卫视HD
 http://192.168.100.133:5888/rtp/239.112.205.184:5140
 http://192.168.100.133:5888/rtp/239.110.205.18:9818
@@ -259,37 +258,37 @@ http://192.168.100.133:5888/rtp/239.109.205.215:9216
 #EXTINF:-1 tvg-id="广西卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",广西卫视HD
 http://192.168.100.133:5888/rtp/239.111.205.14:5140
 #EXTINF:-1 tvg-id="黑龙江卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",黑龙江卫视HD
-http://192.168.100.133:5888/rtp/239.109.205.190:9604
 http://192.168.100.133:5888/rtp/239.112.205.68:5140
+http://192.168.100.133:5888/rtp/239.109.205.190:9604
 #EXTINF:-1 tvg-id="安徽卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",安徽卫视HD
-http://192.168.100.133:5888/rtp/239.110.205.11:9790
 http://192.168.100.133:5888/rtp/239.112.205.72:5140
+http://192.168.100.133:5888/rtp/239.110.205.11:9790
 #EXTINF:-1 tvg-id="山西卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",山西卫视HD
 http://192.168.100.133:5888/rtp/239.111.205.39:5140
 http://192.168.100.133:5888/rtp/239.111.205.16:5140
 http://192.168.100.133:5888/rtp/239.109.205.96:8704
 #EXTINF:-1 tvg-id="湖北卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",湖北卫视HD
-http://192.168.100.133:5888/rtp/239.109.205.165:9006
 http://192.168.100.133:5888/rtp/239.112.205.69:5140
+http://192.168.100.133:5888/rtp/239.109.205.165:9006
 #EXTINF:-1 tvg-id="陕西卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",陕西卫视HD
 http://192.168.100.133:5888/rtp/239.111.205.35:5140
 #EXTINF:-1 tvg-id="东南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",东南卫视HD
-http://192.168.100.133:5888/rtp/239.109.205.177:9626
 http://192.168.100.133:5888/rtp/239.112.205.182:5140
+http://192.168.100.133:5888/rtp/239.109.205.177:9626
 #EXTINF:-1 tvg-id="吉林卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",吉林卫视HD
-http://192.168.100.133:5888/rtp/239.109.205.115:8856
 http://192.168.100.133:5888/rtp/239.112.205.183:5140
+http://192.168.100.133:5888/rtp/239.109.205.115:8856
 #EXTINF:-1 tvg-id="辽宁卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",辽宁卫视HD
-http://192.168.100.133:5888/rtp/239.110.205.12:9794
 http://192.168.100.133:5888/rtp/239.112.205.73:5140
+http://192.168.100.133:5888/rtp/239.110.205.12:9794
 #EXTINF:-1 tvg-id="湖南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",湖南卫视HD
 http://192.168.100.133:5888/rtp/239.112.205.62:5140
 #EXTINF:-1 tvg-id="广东卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",广东卫视HD
 http://192.168.100.133:5888/rtp/239.109.205.188:9610
 http://192.168.100.133:5888/rtp/239.112.205.66:5140
 #EXTINF:-1 tvg-id="河南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",河南卫视HD
-http://192.168.100.133:5888/rtp/239.109.205.140:9026
 http://192.168.100.133:5888/rtp/239.112.205.180:5140
+http://192.168.100.133:5888/rtp/239.109.205.140:9026
 #EXTINF:-1 tvg-id="河北卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",河北卫视HD
 http://192.168.100.133:5888/rtp/239.112.205.200:5140
 http://192.168.100.133:5888/rtp/239.109.205.158:9106
@@ -308,8 +307,9 @@ http://192.168.100.133:5888/rtp/239.110.205.95:7896
 #EXTINF:-1 tvg-id="西藏卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",西藏卫视HD
 http://192.168.100.133:5888/rtp/239.111.205.58:5140
 #EXTINF:-1 tvg-id="兵团卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",兵团卫视HD
-http://192.168.100.133:5888/rtp/239.110.205.92:7908
 http://192.168.100.133:5888/rtp/239.111.205.60:5140
+http://192.168.100.133:5888/rtp/239.110.205.92:7908
+
 
 #EXTINF:-1 tvg-id="IPTV3HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV3HD.png" group-title="陕西电信",IPTV3HD
 http://192.168.100.133:5888/rtp/239.109.205.197:9650
@@ -322,13 +322,13 @@ http://192.168.100.133:5888/rtp/239.109.205.199:9658
 #EXTINF:-1 tvg-id="IPTV相声小品HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%9B%B8%E5%A3%B0%E5%B0%8F%E5%93%81HD.png" group-title="陕西电信",IPTV相声小品HD
 http://192.168.100.133:5888/rtp/239.109.205.212:9192
 #EXTINF:-1 tvg-id="爱生活HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%88%B1%E7%94%9F%E6%B4%BBHD.png" group-title="陕西电信",爱生活HD
-http://192.168.100.133:5888/rtp/239.110.205.55:9946
 http://192.168.100.133:5888/rtp/239.112.205.234:5140
+http://192.168.100.133:5888/rtp/239.110.205.55:9946
 #EXTINF:-1 tvg-id="高网HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%AB%98%E7%BD%91HD.png" group-title="陕西电信",高网HD
 http://192.168.100.133:5888/rtp/239.110.205.16:9810
 #EXTINF:-1 tvg-id="足球HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B6%B3%E7%90%83HD.png" group-title="陕西电信",足球HD
-http://192.168.100.133:5888/rtp/239.110.205.25:9846
 http://192.168.100.133:5888/rtp/239.112.205.127:5140
+http://192.168.100.133:5888/rtp/239.110.205.25:9846
 #EXTINF:-1 tvg-id="FXTVHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FXTVHD.png" group-title="陕西电信",FXTVHD
 http://192.168.100.133:5888/rtp/239.111.205.244:5140
 #EXTINF:-1 tvg-id="IPTV3＋HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV3%EF%BC%8BHD.png" group-title="陕西电信",IPTV3＋HD
@@ -338,8 +338,8 @@ http://192.168.100.133:5888/rtp/239.112.205.118:5140
 #EXTINF:-1 tvg-id="IPTV8＋HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV8%EF%BC%8BHD.png" group-title="陕西电信",IPTV8＋HD
 http://192.168.100.133:5888/rtp/239.112.205.119:5140
 #EXTINF:-1 tvg-id="农林卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86HD.png" group-title="陕西电信",农林卫视HD
-http://192.168.100.133:5888/rtp/239.110.205.88:7924
 http://192.168.100.133:5888/rtp/239.112.205.26:5140
+http://192.168.100.133:5888/rtp/239.110.205.88:7924
 #EXTINF:-1 tvg-id="电影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%B5%E5%BD%B1HD.png" group-title="陕西电信",电影HD
 http://192.168.100.133:5888/rtp/239.112.205.90:5140
 #EXTINF:-1 tvg-id="足球频道HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B6%B3%E7%90%83%E9%A2%91%E9%81%93HD.png" group-title="陕西电信",电视指南HD

@@ -7,22 +7,19 @@ https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhzw$fhx|User-Agent=okhttp
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="凤凰台",凤凰香港台-凤凰秀1
 https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhhk$fhx|User-Agent=okhttp
 
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="凤凰台" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰资讯台-凤凰秀2
-http://101.35.240.114:88/phenix.php?id=fhzx|User-Agent="iPhone"
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="凤凰台" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰中文台-凤凰秀2
-http://101.35.240.114:88/phenix.php?id=fhzw|User-Agent="iPhone"
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="凤凰台" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰香港台-凤凰秀2
+#EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="凤凰台",凤凰卫视-资讯台
+https://iptv.566.indevs.in/udp/239.110.205.114:7820
+#EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="凤凰台",凤凰卫视-中文台
+https://iptv.566.indevs.in/udp/239.110.205.103:7864
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="凤凰台" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰卫视-香港台
 http://101.35.240.114:88/phenix.php?id=fhhk|User-Agent="iPhone"
 
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.112114.xyz/logo/书画.png" group-title="其他",书画频道
 http://120.76.248.139/live/bfgd/4200000180.m3u8
 #http://171.213.133.52:8888/udp/239.94.1.163:5140
 
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="央视",CCTV4K
-http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-http://home.wscxy.fun:30100/udp/233.18.204.188:5140
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8K.png" group-title="央视",CCTV8K
-http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
+https://iptv.566.indevs.in/udp/239.111.205.38:5140
 
 #EXTINF:-1 svg-id="CCTV1综合" svg-name="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="央视",CCTV1综合
 https://fnmg.686681.xyz/608807420
@@ -61,7 +58,7 @@ https://fnmg.686681.xyz/624878440
 #EXTINF:-1 svg-id="CCTV15音乐" svg-name="CCTV15音乐" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/628/202204010054_1626678245130_H32_1080.webp" group-title="央视",CCTV15音乐
 https://fnmg.686681.xyz/673168223
 #EXTINF:-1 tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV16.png" group-title="央视",CCTV16奥林匹克
-http://207.56.13.146:81/cdnlive/cctv16.m3u8
+https://iptv.566.indevs.in/udp/239.111.205.134:5140
 #EXTINF:-1 svg-id="CCTV17农业农村" svg-name="CCTV17农业农村" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/631/202204010052_1626678428060_H32_1080.webp" group-title="央视",CCTV17农业农村
 https://fnmg.686681.xyz/673168256
 

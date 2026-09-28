@@ -19,12 +19,12 @@ http://120.76.248.139/live/bfgd/4200000180.m3u8
 #http://171.213.133.52:8888/udp/239.94.1.163:5140
 
 #EXTINF:-1 tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV16.png" group-title="央视",CCTV16奥林匹克HDR
-https://live.ottiptv.cc/mcp/cctv164kav3ahdr.m3u8?userid=7816469203&sign=3e118a573801ae599fa3ddd87120e6b0f858646ffd1049af3c41743f587fad2931b1f474631c71a8325bfbb404c1d29710bc561d2151de480c1a9b679ef334fb1a4cb575aa755abad8c39e9cc499205aea20ebc17524cb&auth_token=f678a456bbd1b3469d6e10cebcd01b3b|User-Agent="okHttp/Mod-1.5.0.0"
+https://live.ottiptv.cc/mcp/cctv164kav3ahdr.m3u8?userid=7816469203&sign=3e118a573801ae599fa3ddd87120e6b0f858646ffd1049af3c41743f587fad2931b1f474631c71a8325bfbb404c1d29710bc561d2151de480c1a9b679ef334fb1a4cb575aa755abad8c39e9cc499205aea20ebc17524cb&auth_token=f678a456bbd1b3469d6e10cebcd01b3b
 #EXTINF:-1 tvg-name="cctv4k-HDR-AV3A" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/cctv4k.png" group-title="AV3A频道",cctv4k-HDR-AV3A
-https://live.ottiptv.cc/mcp/cctv4kav3ahdr.m3u8?userid=7816469203&sign=168c74c1b074efba231660a2e2ae1a82c7e494e27429f66b4d328c48fac79be23198157aa7d6e913849d2986e62e65827c1ae91ef2ce45250dbfc5a7bdca717dbe6d3b4a445899f0628ce3308cba3157d0a5c2b3b2&auth_token=f678a456bbd1b3469d6e10cebcd01b3b|User-Agent="okHttp/Mod-1.5.0.0"
+https://live.ottiptv.cc/mcp/cctv4kav3ahdr.m3u8?userid=7816469203&sign=168c74c1b074efba231660a2e2ae1a82c7e494e27429f66b4d328c48fac79be23198157aa7d6e913849d2986e62e65827c1ae91ef2ce45250dbfc5a7bdca717dbe6d3b4a445899f0628ce3308cba3157d0a5c2b3b2&auth_token=f678a456bbd1b3469d6e10cebcd01b3b
 #EXTINF:-1 tvg-name="cctv4k-HDR-AV3A" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/cctv4k.png" group-title="AV3A频道",cctv4k-HDR-AV3A
 #EXTINF:-1 tvg-name="cctv8k-HDR-AV3A" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/cctv8k.png" group-title="AV3A频道",cctv8k-HDR-AV3A
-https://live.ottiptv.cc/mcp/cctv8kav3ahdr.m3u8?userid=7816469203&sign=f40c6149d48b8847bc3ff3e8cf9390b7ffabc3ba8018efe4fcc031f1e2f82fe9edfc14a3ec90596c74b76b5bc4ebbece7f226b310254409af448dd7cdd36d6645b253e83cf1ce4b1714a2360a84e6e248246af1664&auth_token=f678a456bbd1b3469d6e10cebcd01b3b|User-Agent="okHttp/Mod-1.5.0.0"
+https://live.ottiptv.cc/mcp/cctv8kav3ahdr.m3u8?userid=7816469203&sign=f40c6149d48b8847bc3ff3e8cf9390b7ffabc3ba8018efe4fcc031f1e2f82fe9edfc14a3ec90596c74b76b5bc4ebbece7f226b310254409af448dd7cdd36d6645b253e83cf1ce4b1714a2360a84e6e248246af1664&auth_token=f678a456bbd1b3469d6e10cebcd01b3b
 #EXTINF:-1 tvg-name="cctv4k-HDR-AV3A" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/cctv4k.png" group-title="AV3A频道",cctv4k-HDR-AV3A
 
 #EXTINF:-1 svg-id="CCTV1综合" svg-name="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="央视",CCTV1综合

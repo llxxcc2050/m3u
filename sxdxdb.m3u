@@ -55,6 +55,16 @@ http://192.168.100.133:5888/rtp/239.112.205.203:5140
 http://192.168.100.133:5888/rtp/239.110.205.86:7932
 #EXTINF:-1 tvg-id="新动漫HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E5%8A%A8%E6%BC%ABHD.png" group-title="陕西电信" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",新动漫HD
 http://192.168.100.133:5888/rtp/239.110.205.87:7928
+#EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="陕西电信",中国天气
+http://192.168.100.133:5888/rtp/239.111.205.122:5140
+#EXTINF:-1,tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://epg.112114.xyz/logo/财富天下.png" group-title="陕西电信",财富天下
+http://192.168.100.133:5888/rtp/239.112.205.196:5140
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="陕西电信",CHC家庭影院
+http://192.168.100.133:5888/rtp/239.112.205.25:5140
+#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影影" tvg-logo="https://epg.112114.xyz/logo/CHC影迷电影.png" group-title="陕西电信",CHC影迷电影
+http://192.168.100.133:5888/rtp/239.112.205.23:5140
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="陕西电信",CHC动作电影
+http://192.168.100.133:5888/rtp/239.112.205.21:5140
 
 #EXTINF:-1 tvg-id="CCTV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1HD.png" group-title="陕西电信" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV1HD
 http://192.168.100.133:5888/rtp/239.112.205.59:5140
@@ -344,3 +354,7 @@ http://192.168.100.133:5888/rtp/239.110.205.88:7924
 http://192.168.100.133:5888/rtp/239.112.205.90:5140
 #EXTINF:-1 tvg-id="足球频道HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B6%B3%E7%90%83%E9%A2%91%E9%81%93HD.png" group-title="陕西电信" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",电视指南HD
 http://192.168.100.133:5888/rtp/239.110.205.89:7920
+
+
+
+

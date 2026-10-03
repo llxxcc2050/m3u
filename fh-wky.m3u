@@ -1,6 +1,7 @@
+#EXTM3U
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="凤凰台",凤凰资讯台-wky
-192.168.100.197:5080/fhxyh-opt.php?id=fhzx
+http://192.168.100.197:5080/fhxyh-opt.php?id=fhzx
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="凤凰台",凤凰中文台-wky
-192.168.100.197:5080/fhxyh-opt.php?id=fhzw
+http://192.168.100.197:5080/fhxyh-opt.php?id=fhzw
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="凤凰台",凤凰香港台-wky
-192.168.100.197:5080/fhxyh-opt.php?id=fhhk
+http://192.168.100.197:5080/fhxyh-opt.php?id=fhhk

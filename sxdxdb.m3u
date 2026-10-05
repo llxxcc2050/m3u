@@ -1,45 +1,45 @@
 #EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml"
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="香港" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰卫视-资讯台
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="香港" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰卫视-资讯台
 http://192.168.100.133:5888/udp/239.110.205.114:7820
 http://192.168.100.133:5888/udp/239.111.205.82:5140
-#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="香港" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰卫视-中文台
+#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="香港" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰卫视-中文台
 http://192.168.100.133:5888/udp/239.110.205.103:7864
 http://192.168.100.133:5888/udp/239.111.205.78:5140
 
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-4K
+#EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-4K
 http://192.168.100.133:5888/udp/239.111.205.40:5140
 http://192.168.100.133:5888/udp/239.109.205.192:9608
 http://192.168.100.133:5888/udp/239.111.205.38:5140
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-16 4K
+#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-16 4K
 http://192.168.100.133:5888/udp/239.111.205.134:5140
 http://192.168.100.133:5888/udp/239.110.205.98:7884
-#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",爱上4K
+#EXTINF:-1 tvg-id="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",爱上4K
 http://192.168.100.133:5888/udp/239.112.205.186:5140
 http://192.168.100.133:5888/rtp/239.109.205.53:8360
-#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",四川卫视 4K
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",四川卫视 4K
 http://192.168.100.133:5888/rtp/239.110.205.90:7916
 http://192.168.100.133:5888/udp/239.111.205.62:5140
-#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东方卫视 4K
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东方卫视 4K
 http://192.168.100.133:5888/udp/239.111.205.67:5140
-#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",湖南卫视 4K
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",湖南卫视 4K
 http://192.168.100.133:5888/rtp/239.110.205.91:7912
 http://192.168.100.133:5888/udp/239.111.205.63:5140
-#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",广东卫视 4K
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",广东卫视 4K
 http://192.168.100.133:5888/udp/239.110.205.36:9850
 http://192.168.100.133:5888/udp/239.111.205.103:5140
-#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",深圳卫视 4K
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",深圳卫视 4K
 http://192.168.100.133:5888/rtp/239.109.205.195:9642
 http://192.168.100.133:5888/udp/239.111.205.104:5140
-#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",浙江卫视 4K
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",浙江卫视 4K
 http://192.168.100.133:5888/rtp/239.109.205.104:8768
 http://192.168.100.133:5888/udp/239.111.205.65:5140
-#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山东卫视 4K
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山东卫视 4K
 http://192.168.100.133:5888/rtp/239.110.205.6:9770
 http://192.168.100.133:5888/udp/239.111.205.66:5140
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京卫视 4K
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京卫视 4K
 http://192.168.100.133:5888/rtp/239.109.205.5:9144
 http://192.168.100.133:5888/udp/239.111.205.51:5140
-#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",江苏卫视 4K
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="4K UHD" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",江苏卫视 4K
 http://192.168.100.133:5888/rtp/239.109.205.97:8712
 http://192.168.100.133:5888/udp/239.111.205.64:5140
 

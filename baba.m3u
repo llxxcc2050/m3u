@@ -26,41 +26,41 @@ https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=7816469203&sign=b3bd41ae0a2b3385c
 https://live.ottiptv.cc/mcp/cctv164k.m3u8?userid=7816469203&sign=ee4cb3374adeaf671095ca02dd7ede75e438987eb2e9baffcce5d8065452a25c6e73bf5c345ae10d31d1c41822f59bf15baa39d1f9ed92d851ebfa04f76249cb3f88e5d0ebd6af8415ce54e3dc09f336&auth_token=f678a456bbd1b3469d6e10cebcd01b3b|User-Agent="okHttp/Mod-1.5.0.0"
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
-https://fnphplive.686681.xyz/sxlt.php?id=CCTV-1-HD
+http://47.109.135.207:5080/sxlt.php?id=CCTV-1-HD
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
-https://fnphplive.686681.xyz/sxlt.php?id=CCTV-2-HD
+http://47.109.135.207:5080/sxlt.php?id=CCTV-2-HD
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
-https://fnphplive.686681.xyz/sxlt.php?id=CCTV-3-HD
+http://47.109.135.207:5080/sxlt.php?id=CCTV-3-HD
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
-https://fnphplive.686681.xyz/sxlt.php?id=CCTV-4-HD
+http://47.109.135.207:5080/sxlt.php?id=CCTV-4-HD
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5
-https://fnphplive.686681.xyz/sxlt.php?id=CCTV-5-HD
+http://47.109.135.207:5080/sxlt.php?id=CCTV-5-HD
 #EXTINF:-1 tvg-name="cctv5+" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/cctv5p.png" group-title="央视",cctv5+
 https://live.ottiptv.cc/mcp/cctv5p.m3u8?userid=7816469203&sign=9149d9de33b98b7778534668746fcf18e9d89fa79715f608cc7a3cf36706cb0cb3558f17b992cdac5074bc081cfea6558b25a1c189211ac2965b486a68f5119c765434e7daed9da5c7ba66b4e34f&auth_token=f678a456bbd1b3469d6e10cebcd01b3b|User-Agent="okHttp/Mod-1.5.0.0"
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6
-https://fnphplive.686681.xyz/sxlt.php?id=CCTV-6-HD
+http://47.109.135.207:5080/sxlt.php?id=CCTV-6-HD
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7
-https://fnphplive.686681.xyz/sxlt.php?id=CCTV-7-HD
+http://47.109.135.207:5080/sxlt.php?id=CCTV-7-HD
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV8
-https://fnphplive.686681.xyz/sxlt.php?id=CCTV-8-HD
+http://47.109.135.207:5080/sxlt.php?id=CCTV-8-HD
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV9
-https://fnphplive.686681.xyz/sxlt.php?id=CCTV-9-HD
+http://47.109.135.207:5080/sxlt.php?id=CCTV-9-HD
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV10
-https://fnphplive.686681.xyz/sxlt.php?id=CCTV-10-HD
+http://47.109.135.207:5080/sxlt.php?id=CCTV-10-HD
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV11
-https://fnphplive.686681.xyz/sxlt.php?id=CCTV-11-HD
+http://47.109.135.207:5080/sxlt.php?id=CCTV-11-HD
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12
-https://fnphplive.686681.xyz/sxlt.php?id=CCTV-12-HD
+http://47.109.135.207:5080/sxlt.php?id=CCTV-12-HD
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13
-https://fnphplive.686681.xyz/sxlt.php?id=CCTV-13-HD
+http://47.109.135.207:5080/sxlt.php?id=CCTV-13-HD
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14
-https://fnphplive.686681.xyz/sxlt.php?id=CCTV-14-HD
+http://47.109.135.207:5080/sxlt.php?id=CCTV-14-HD
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15
-https://fnphplive.686681.xyz/sxlt.php?id=CCTV-15-HD
+http://47.109.135.207:5080/sxlt.php?id=CCTV-15-HD
 #EXTINF:-1 tvg-name="cctv16" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/cctv16.png" group-title="央视",cctv16
 https://live.ottiptv.cc/mcp/cctv16.m3u8?userid=7816469203&sign=126c119cc64ddc07b6afcbe56eb32b9d7d2ac41f7baf2fa8b42b08b56c2d1535e23641d1cd0daa8513c4837942193c7d18fd5645767d79cc67e90ecaed68585c9f698cc713d4df007ad51943d361&auth_token=f678a456bbd1b3469d6e10cebcd01b3b|User-Agent="okHttp/Mod-1.5.0.0"
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
-https://fnphplive.686681.xyz/sxlt.php?id=cctv17-HD
+http://47.109.135.207:5080/sxlt.php?id=cctv17-HD
 
 #EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1983
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4

@@ -1,18 +1,20 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://hk.gh-proxy.org/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://develop202.github.io/migu_video/playback.xml,https://raw.githubusercontents.com/develop202/migu_video/refs/heads/main/playback.xml" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="凤凰台",凤凰资讯台-凤凰秀1
-https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhzx$fhx|User-Agent="okhttp"
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="凤凰台",凤凰中文台-凤凰秀1
-https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhzw$fhx|User-Agent="okhttp"
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="凤凰台",凤凰香港台-凤凰秀1
-https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhhk$fhx|User-Agent="okhttp"
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://ipfh.686681.xyz/logo-cache/9fca1dd949dc3ac7be35.png?v=1792578891842&from=source" catchup="none" group-title="香港",凤凰资讯
+https://ipfh.686681.xyz/fengshows-info.flv
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://ipfh.686681.xyz/logo-cache/17a2a0bdc9150400e64b.png?v=1792550087234&from=source" catchup="none" group-title="香港",凤凰中文
+https://ipfh.686681.xyz/fengshows-chinese.flv
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://ipfh.686681.xyz/logo-cache/0ed1631cad44391e486c.png?v=1792550087234&from=source" catchup="none" group-title="香港",凤凰香港
+https://ipfh.686681.xyz/fengshows-hongkong.flv
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://ipfh.686681.xyz/logo-cache/5809d958fecaa0daf94a.png?v=1792550087234&from=source" catchup="none" group-title="香港",香港卫视
+https://ipfh.686681.xyz/relay/hkstv-live.m3u8
 
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="凤凰台",凤凰资讯台-凤凰秀2
-http://101.35.240.114:88/phenix.php?id=fhzx|User-Agent="iPhone"
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="凤凰台",凤凰中文台-凤凰秀2
-http://101.35.240.114:88/phenix.php?id=fhzw|User-Agent="iPhone"
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="凤凰台",凤凰香港台-凤凰秀2
-http://101.35.240.114:88/phenix.php?id=fhhk|User-Agent="iPhone"
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="凤凰秀",凤凰资讯台
+https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhzx$fhx|User-Agent="okhttp"
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="凤凰秀",凤凰中文台
+https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhzw$fhx|User-Agent="okhttp"
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="凤凰秀",凤凰香港台
+https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhhk$fhx|User-Agent="okhttp"
 
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.112114.xyz/logo/书画.png" group-title="其他",书画频道
 http://120.76.248.139/live/bfgd/4200000180.m3u8

@@ -38,8 +38,9 @@ https://vcstiok.serv00.net/sxlt.php?id=CCTV-3-HD
 https://vcstiok.serv00.net/sxlt.php?id=CCTV-4-HD
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/cctv5.png" group-title="央视",CCTV5
 https://vcstiok.serv00.net/sxlt.php?id=CCTV-5-HD
-#EXTINF:-1 tvg-name="cctv5+" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/cctv5p.png" group-title="央视",cctv5+
-https://live.ottiptv.cc/mcp/cctv5p.m3u8?userid=7816469203&sign=9149d9de33b98b7778534668746fcf18e9d89fa79715f608cc7a3cf36706cb0cb3558f17b992cdac5074bc081cfea6558b25a1c189211ac2965b486a68f5119c765434e7daed9da5c7ba66b4e34f&auth_token=f678a456bbd1b3469d6e10cebcd01b3b|User-Agent="okHttp/Mod-1.5.0.0"
+#EXTINF:-1 tvg-name="cctv5p" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/cctv5p.png" group-title="央视-MCP",cctv5+
+https://live.ottiptv.cc/mcp/cctv5p.m3u8?userid=7816469203&sign=853df4e5bf4372fdae6000661c67023720c9c1d6bea4df33c1ae2c6af97cb1fd19d239ecc1e826e773c0a1c199086573d0ea807d51449e1b6154c4a9705faffc002a8a297cf3a051017867ff3543&auth_token=f678a456bbd1b3469d6e10cebcd01b3b|User-Agent="okHttp/Mod-1.5.0.0"
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/cctv6.png" group-title="央视",CCTV6
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/cctv6.png" group-title="央视",CCTV6
 https://vcstiok.serv00.net/sxlt.php?id=CCTV-6-HD
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/cctv7.png" group-title="央视",CCTV7
@@ -60,8 +61,8 @@ https://vcstiok.serv00.net/sxlt.php?id=CCTV-13-HD
 https://vcstiok.serv00.net/sxlt.php?id=CCTV-14-HD
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/cctv15.png" group-title="央视",CCTV15
 https://vcstiok.serv00.net/sxlt.php?id=CCTV-15-HD
-#EXTINF:-1 tvg-name="cctv16" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/cctv16.png" group-title="央视",cctv16
-https://live.ottiptv.cc/mcp/cctv16.m3u8?userid=7816469203&sign=126c119cc64ddc07b6afcbe56eb32b9d7d2ac41f7baf2fa8b42b08b56c2d1535e23641d1cd0daa8513c4837942193c7d18fd5645767d79cc67e90ecaed68585c9f698cc713d4df007ad51943d361&auth_token=f678a456bbd1b3469d6e10cebcd01b3b|User-Agent="okHttp/Mod-1.5.0.0"
+#EXTINF:-1 tvg-name="cctv16" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/cctv16.png" group-title="央视-MCP",cctv16奥林匹克
+https://live.ottiptv.cc/mcp/cctv16.m3u8?userid=7816469203&sign=e2e043bd265fc3a0487cc45711677ac509bc65232caa4a991e67a3720f2b7c576a5a24194d826ee503cf1ed738ed38e2b77c3900b2e2decb5e76091a8e7b6f8eada2e14f7856315f07821b70d619&auth_token=f678a456bbd1b3469d6e10cebcd01b3b|User-Agent="okHttp/Mod-1.5.0.0"
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/cctv17.png" group-title="央视",CCTV17
 https://vcstiok.serv00.net/sxlt.php?id=cctv17-HD
 
